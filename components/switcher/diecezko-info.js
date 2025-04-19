@@ -43,7 +43,7 @@ export default function DiecezkoInfo({ id, className }) {
           </p>
         </div>
         <div className="w-[90vw] max-w-[500px] grid grid-cols-2 grid-flow-row gap-4 items-center auto-cols-max">
-          <Link
+          {/* <Link
             href="https://yesman.diecezko.cz/"
             target="_blank"
             title="Diecézní YesMan"
@@ -56,7 +56,7 @@ export default function DiecezkoInfo({ id, className }) {
               />{" "}
               <span className="ml-2 text-left">Diecézní YesMan</span>
             </button>
-          </Link>
+          </Link> */}
           <Link
             href={`https://feedback.diecezko.cz/`}
             target="_blank"
