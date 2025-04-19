@@ -34,7 +34,14 @@ export default function Galerie() {
               className="underline"
             >
               Petr Hrabovsky
-            </Link>{" "}
+            </Link>{" "}(z <Link
+              href={`https://www.clovekavira.cz/detail-galerie/7c6ec7eb-cedb-45a8-9986-721dd8696c00`}
+              target="_blank"
+              rel="external noopener nofollow"
+              className="underline"
+            >
+              Člověk a Víra
+            </Link>)
             .<p className="my-2 w-full"></p>
             <PhotoAlbum
               layout="masonry"
