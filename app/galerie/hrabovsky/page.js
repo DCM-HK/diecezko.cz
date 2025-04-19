@@ -6,7 +6,7 @@ import ContainerTitle from "../../../components/layouts/container-title";
 import ContainerDescription from "../../../components/layouts/container-description";
 import PageMain from "../../../components/layouts/page-main";
 import Link from "next/link";
-import { photos_gorun } from "../../../components/photos";
+import { photos_hrabovsky } from "../../../components/photos";
 import { useState } from "react";
 import "yet-another-react-lightbox/styles.css";
 import "yet-another-react-lightbox/plugins/counter.css";
@@ -26,26 +26,26 @@ export default function Galerie() {
         <Container>
           <ContainerTitle>Galerie</ContainerTitle>
           <ContainerDescription>
-            Zavzpomínej na jarní Diecézko 2024, které pro nás nafotil{" "}
+            Zavzpomínej na jarní Diecézko 2025, které pro nás nafotil{" "}
             <Link
-              href={`https://www.facebook.com/gorunmatous`}
+              href={`https://www.facebook.com/profile.php?id=100013329674785`}
               target="_blank"
               rel="external noopener nofollow"
               className="underline"
             >
-              Matouš Gorun
-            </Link>
+              Petr Hrabovsky
+            </Link>{" "}
             .<p className="my-2 w-full"></p>
             <PhotoAlbum
               layout="masonry"
-              photos={photos_gorun}
+              photos={photos_hrabovsky}
               onClick={({ index: current }) => setIndex(current)}
             />
             <Lightbox
               open={index >= 0}
               index={index}
               close={() => setIndex(-1)}
-              slides={photos_gorun}
+              slides={photos_hrabovsky}
               plugins={[Counter, Fullscreen, Thumbnails]}
               counter={{ container: { style: { top: "unset", bottom: 0 } } }}
               thumbnails={{ border: 0, gap: 4 }}
