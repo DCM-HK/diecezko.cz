@@ -23,16 +23,33 @@ export default function Galerie() {
               className="underline"
             >
               Petr Hrabovsky
-            </Link>{" "}
+            </Link>
+            a&nbsp;
+            <Link
+              href={`https://www.facebook.com/jan.urban.1291`}
+              target="_blank"
+              rel="external noopener nofollow"
+              className="underline"
+            >
+              Honza Urban
+            </Link>
             .
           </ContainerDescription>
-          <div className="w-full grid md:grid-cols-1 gap-4">
+          <div className="w-full grid md:grid-cols-2 gap-4">
             <Link
               href="/galerie/hrabovsky"
               className="hover:scale-105 duration-200 flex flex-col items-center justify-center w-full h-64 bg-[url('https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8931.webp')] bg-center rounded-xl bg-cover"
             >
               <h2 className="text-2xl font-semibold backdrop-blur-sm p-12 rounded-xl backdrop-brightness-50">
                 Fotky od Petra
+              </h2>
+            </Link>
+            <Link
+              href="/galerie/urban"
+              className="hover:scale-105 duration-200 flex flex-col items-center justify-center w-full h-64 bg-[url('https://foto2025.diecezko.cz/foto/urban/IMG_8998.webp')] bg-center rounded-xl bg-cover"
+            >
+              <h2 className="text-2xl font-semibold backdrop-blur-sm p-8 rounded-xl">
+                Fotky od Honzy
               </h2>
             </Link>
           </div>
