@@ -1647,3 +1647,5 @@ export const photos_hrabovsky = [
     caption: "Fotka z jarního Diecézka 2025",
   },
 ];
+
+export const photos_urban = [];
