@@ -23,7 +23,7 @@ export default function Galerie() {
               className="underline"
             >
               Petr Hrabovsky
-            </Link>
+            </Link>{" "}
             a&nbsp;
             <Link
               href={`https://www.facebook.com/jan.urban.1291`}
