@@ -26,7 +26,7 @@ export default function Galerie() {
         <Container>
           <ContainerTitle>Galerie</ContainerTitle>
           <ContainerDescription>
-            Zavzpomínej na jarní Diecézko 2025, které pro nás nafotil{" "}
+            Zavzpomínej na Diecézko 2025, které pro nás nafotil{" "}
             <Link
               href={`https://www.facebook.com/jan.urban.1291`}
               target="_blank"

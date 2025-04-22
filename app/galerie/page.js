@@ -15,14 +15,14 @@ export default function Galerie() {
         <Container>
           <ContainerTitle>Galerie</ContainerTitle>
           <ContainerDescription>
-            Zavzpomínej na jarní Diecézko 2025, které pro nás nafotil{" "}
+            Zavzpomínej na Diecézko 2025, které pro nás nafotil{" "}
             <Link
               href={`https://www.facebook.com/profile.php?id=100013329674785`}
               target="_blank"
               rel="external noopener nofollow"
               className="underline"
             >
-              Petr Hrabovsky
+              Petr Hrabovský
             </Link>{" "}
             a&nbsp;
             <Link
