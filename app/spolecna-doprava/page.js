@@ -27,14 +27,23 @@ export default async function GroupTransport() {
             naleznete přehled, který vás nasměruje na další informace.
           </ContainerDescription>
           <FaqLayout>
-            <FaqBox question={`Havlíčkův Brod, Humpolec`} icon={``}>
+            <FaqBox question={`Havlíčkův Brod`} icon={``}>
               <ContainerImage
-                jpgPath="/assets/images/doprava/doprava-hb-hum.jpg"
-                webpPath="/assets/images/doprava/doprava-hb-hum.webp"
+                jpgPath="/assets/images/doprava/doprava-hb.jpg"
+                webpPath="/assets/images/doprava/doprava-hb.webp"
                 altText="Plakátek s informacemi o společné dopravě."
                 className="w-full my-4"
               />
             </FaqBox>
+            <FaqBox question={`Humpolec`} icon={``}>
+              <ContainerImage
+                jpgPath="/assets/images/preddiecezka/preddiecezko-hum.jpg"
+                webpPath="/assets/images/preddiecezka/preddiecezko-hum.webp"
+                altText="Plakátek s informacemi o společné dopravě."
+                className="w-full my-4"
+              />
+            </FaqBox>
+            {/*
             <FaqBox question={`Chrudim`} icon={``}>
               <ContainerImage
                 jpgPath="/assets/images/doprava/doprava-chrudim.jpg"
@@ -113,6 +122,7 @@ export default async function GroupTransport() {
                 className="w-full my-4"
               />
             </FaqBox>
+            */}
           </FaqLayout>
         </Container>
       </PageMain>

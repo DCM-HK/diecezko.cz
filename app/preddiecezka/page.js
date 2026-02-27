@@ -33,13 +33,8 @@ export default async function GroupTransport() {
                 altText="Plakátek s informacemi o PředDiecézku."
                 className="w-full my-4"
               />
-              <ContainerImage
-                jpgPath="/assets/images/doprava/doprava-hb-hum.jpg"
-                webpPath="/assets/images/doprava/doprava-hb-hum.webp"
-                altText="Plakátek s informacemi o společné dopravě."
-                className="w-full my-4"
-              />
             </FaqBox>
+            {/*
             <FaqBox question={`Jičín`} icon={``}>
               <ContainerImage
                 jpgPath="/assets/images/preddiecezka/preddiecezko-jicin.jpg"
@@ -64,6 +59,7 @@ export default async function GroupTransport() {
                 className="w-full my-4"
               />
             </FaqBox>
+            */}
           </FaqLayout>
         </Container>
       </PageMain>

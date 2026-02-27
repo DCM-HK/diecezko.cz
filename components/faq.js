@@ -173,7 +173,7 @@ export default function FAQ() {
         </Link>
         . */}
       </FaqBox>
-      {/*
+      
       <FaqBox question={`Co je to PředDiecézko?`} icon={`users`}>
         Některé vikariáty pořádají menší setkání (tzv. vikariátko) den před
         Diecézkem a&nbsp;poté společně vyrážejí do Hradce Králové. Tomuto
@@ -188,6 +188,7 @@ export default function FAQ() {
         </Link>
         .
       </FaqBox>
+      
       <FaqBox question={`Je organizována společná doprava?`} icon={`train`}>
         Některé vikariáty společnou dopravu organizují. Pro jasný přehled jsme
         pro Vás připravili{" "}
@@ -201,7 +202,7 @@ export default function FAQ() {
         , který poradí, kdy a&nbsp;v&nbsp;kolik je sraz a&nbsp;jestli je nutné
         se někam hlásit.
       </FaqBox>
-      */}
+      
       <FaqBox question={`Jak se v Hradci dopravovat?`} icon={`bus`}>
         <ContainerH3>Stručně</ContainerH3>
         Hradec Králové je malej, <strong>choďte pěšky</strong>!
