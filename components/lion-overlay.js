@@ -13,6 +13,8 @@ const FRAME_SEQUENCE = [0, 1, 2, 1];
 const FRAME_DURATION_MS = 180;
 const FADE_DURATION_MS = 350;
 const LION_WIDTH_PX = 100;
+const WALK_SPEED_MIN_PX_PER_SECOND = 28;
+const WALK_SPEED_MAX_PX_PER_SECOND = 52;
 const FIRST_APPEARANCE_MIN_MS = 10; //10000;
 const FIRST_APPEARANCE_MAX_MS = 30; //30000;
 const STAY_MIN_MS = 10000;
@@ -65,14 +67,28 @@ function createLionRun(viewportWidth) {
     room > 0
       ? randomFloat(minTravel, Math.max(minTravel, maxTravel))
       : 0;
+  const minWalkSpeed = Math.min(
+    WALK_SPEED_MIN_PX_PER_SECOND,
+    WALK_SPEED_MAX_PX_PER_SECOND
+  );
+  const maxWalkSpeed = Math.max(
+    WALK_SPEED_MIN_PX_PER_SECOND,
+    WALK_SPEED_MAX_PX_PER_SECOND
+  );
+  const walkSpeedPxPerSecond = Math.max(
+    1,
+    randomFloat(minWalkSpeed, maxWalkSpeed)
+  );
   const stayDuration = randomBetween(STAY_MIN_MS, STAY_MAX_MS);
+  const walkDuration =
+    travelDistance > 0 ? (travelDistance / walkSpeedPxPerSecond) * 1000 : 0;
 
   return {
     direction,
     endX: startX + direction * travelDistance,
     startX,
     stayDuration,
-    walkDuration: stayDuration + FADE_DURATION_MS,
+    walkDuration,
     width,
   };
 }
@@ -171,6 +187,11 @@ export default function LionOverlay() {
         });
 
         scheduleTimeout(() => {
+          clearFrameAnimation();
+          setFrameStep(0);
+        }, nextRun.walkDuration);
+
+        scheduleTimeout(() => {
           setLionRun((currentRun) => {
             if (!currentRun) {
               return currentRun;
@@ -181,13 +202,13 @@ export default function LionOverlay() {
               phase: "leaving",
             };
           });
-        }, FADE_DURATION_MS + nextRun.stayDuration);
+        }, FADE_DURATION_MS + nextRun.walkDuration + nextRun.stayDuration);
 
         scheduleTimeout(() => {
           clearFrameAnimation();
           setLionRun(null);
           scheduleSpawn(getNextAppearanceDelay());
-        }, FADE_DURATION_MS * 2 + nextRun.stayDuration);
+        }, FADE_DURATION_MS * 2 + nextRun.walkDuration + nextRun.stayDuration);
       }, delay);
     }
 
