@@ -12,15 +12,13 @@ const LION_FRAMES = [
 const FRAME_SEQUENCE = [0, 1, 2, 1];
 const FRAME_DURATION_MS = 180;
 const FADE_DURATION_MS = 350;
-const LION_WIDTH_PX = 80;
-const WALK_SPEED_MIN_PX_PER_SECOND = 28;
-const WALK_SPEED_MAX_PX_PER_SECOND = 52;
-const FIRST_APPEARANCE_MIN_MS = 1000;  // 10000
-const FIRST_APPEARANCE_MAX_MS = 3000;  // 30000
+const LION_WIDTH_PX = 100;
+const FIRST_APPEARANCE_MIN_MS = 10; //10000;
+const FIRST_APPEARANCE_MAX_MS = 30; //30000;
 const STAY_MIN_MS = 10000;
 const STAY_MAX_MS = 30000;
-const NEXT_APPEARANCE_MIN_MS = 3000;  // 30000
-const NEXT_APPEARANCE_MAX_MS = 2400;  // 240000
+const NEXT_APPEARANCE_MIN_MS = 10; // 30000;
+const NEXT_APPEARANCE_MAX_MS = 30; // 240000;
 
 function clamp(value, min, max) {
   return Math.min(Math.max(value, min), max);
@@ -67,28 +65,14 @@ function createLionRun(viewportWidth) {
     room > 0
       ? randomFloat(minTravel, Math.max(minTravel, maxTravel))
       : 0;
-  const minWalkSpeed = Math.min(
-    WALK_SPEED_MIN_PX_PER_SECOND,
-    WALK_SPEED_MAX_PX_PER_SECOND
-  );
-  const maxWalkSpeed = Math.max(
-    WALK_SPEED_MIN_PX_PER_SECOND,
-    WALK_SPEED_MAX_PX_PER_SECOND
-  );
-  const walkSpeedPxPerSecond = Math.max(
-    1,
-    randomFloat(minWalkSpeed, maxWalkSpeed)
-  );
   const stayDuration = randomBetween(STAY_MIN_MS, STAY_MAX_MS);
-  const walkDuration =
-    travelDistance > 0 ? (travelDistance / walkSpeedPxPerSecond) * 1000 : 0;
 
   return {
     direction,
     endX: startX + direction * travelDistance,
     startX,
     stayDuration,
-    walkDuration,
+    walkDuration: stayDuration + FADE_DURATION_MS,
     width,
   };
 }
@@ -155,10 +139,6 @@ export default function LionOverlay() {
     function scheduleSpawn(delay) {
       scheduleTimeout(() => {
         const nextRun = createLionRun(window.innerWidth);
-        const walkStartDelay = FADE_DURATION_MS;
-        const walkEndDelay = walkStartDelay + nextRun.walkDuration;
-        const fadeOutStartDelay = walkEndDelay + nextRun.stayDuration;
-        const removeDelay = fadeOutStartDelay + FADE_DURATION_MS;
 
         setFrameStep(0);
         setLionRun({
@@ -168,6 +148,11 @@ export default function LionOverlay() {
         });
 
         clearFrameAnimation();
+        frameIntervalRef.current = window.setInterval(() => {
+          setFrameStep((currentStep) => {
+            return (currentStep + 1) % FRAME_SEQUENCE.length;
+          });
+        }, FRAME_DURATION_MS);
 
         scheduleAnimationFrame(() => {
           scheduleAnimationFrame(() => {
@@ -179,34 +164,11 @@ export default function LionOverlay() {
               return {
                 ...currentRun,
                 phase: "visible",
+                walking: true,
               };
             });
           });
         });
-
-        scheduleTimeout(() => {
-          frameIntervalRef.current = window.setInterval(() => {
-            setFrameStep((currentStep) => {
-              return (currentStep + 1) % FRAME_SEQUENCE.length;
-            });
-          }, FRAME_DURATION_MS);
-
-          setLionRun((currentRun) => {
-            if (!currentRun) {
-              return currentRun;
-            }
-
-            return {
-              ...currentRun,
-              walking: true,
-            };
-          });
-        }, walkStartDelay);
-
-        scheduleTimeout(() => {
-          clearFrameAnimation();
-          setFrameStep(0);
-        }, walkEndDelay);
 
         scheduleTimeout(() => {
           setLionRun((currentRun) => {
@@ -219,13 +181,13 @@ export default function LionOverlay() {
               phase: "leaving",
             };
           });
-        }, fadeOutStartDelay);
+        }, FADE_DURATION_MS + nextRun.stayDuration);
 
         scheduleTimeout(() => {
           clearFrameAnimation();
           setLionRun(null);
           scheduleSpawn(getNextAppearanceDelay());
-        }, removeDelay);
+        }, FADE_DURATION_MS * 2 + nextRun.stayDuration);
       }, delay);
     }
 
