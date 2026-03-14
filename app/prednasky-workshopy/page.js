@@ -299,7 +299,7 @@ const workshops = [
     about: ``,
     descritpion: `Sporty pro Vás připravujeme i letos. Více info již brzy tady.`, //Nechceš trávit odpoledne sezením a&nbsp;máš chuť se hýbat? Máš možnost přijít na workshop různých sportů. Pokud nejsi profi sportovec, tak nevadí! Přijít může každý, kdo má zájem, jen pamatuj na oblečení, ve kterém se ti bude dobře pohybovat a přezuvky do tělocvičny.`,
     speaker: {
-      name: "Organizátor bude upřesněn;",
+      name: "Organizátor bude upřesněn",
       // jpgPath: "/assets/images/speakers/TODO.jpg",
     },
   },
