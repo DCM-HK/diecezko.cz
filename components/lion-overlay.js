@@ -1,5 +1,6 @@
 "use client";
 
+import { SP } from "next/dist/shared/lib/utils";
 import Image from "next/image";
 import { useEffect, useRef, useState } from "react";
 
@@ -19,6 +20,8 @@ const STAY_MIN_MS = 10000;
 const STAY_MAX_MS = 20000;
 const NEXT_APPEARANCE_MIN_MS = 10; // 30000;
 const NEXT_APPEARANCE_MAX_MS = 30; // 240000;
+const SPEED_MIN = 0.035;
+const SPEED_MAX = 0.05;
 
 function clamp(value, min, max) {
   return Math.min(Math.max(value, min), max);
@@ -50,8 +53,11 @@ function createLionRun(viewportWidth) {
   const startX = randomFloat(sidePadding, maxX);
 
   let direction = Math.random() < 0.5 ? -1 : 1;
-  const travelDistance = randomFloat(400, 800);
   const stayDuration = randomBetween(STAY_MIN_MS, STAY_MAX_MS);
+  const travelDistance = randomFloat(
+    stayDuration * SPEED_MIN,
+    stayDuration * SPEED_MAX
+  );
 
   return {
     direction,
