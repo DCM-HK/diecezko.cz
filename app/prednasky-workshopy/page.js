@@ -26,7 +26,7 @@ export default async function PrednaskyWorhsopy() {
       <PageMain>
         <Container>
           <ContainerTitle>Přednášky a workshopy</ContainerTitle>
-          <ProgramDetail p={program[3]} className={``} />
+          <ProgramDetail p={program[4]} className={``} />
           <ContainerDescription>
             V první části odpoledne si můžete vybrat z&nbsp;bohaté nabídky
             přednášek, několika workshopů nebo sportu. Další workshopy budou přibývat

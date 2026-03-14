@@ -5,6 +5,8 @@ import ContainerTitle from "../../components/layouts/container-title";
 import ContainerDescription from "../../components/layouts/container-description";
 import ContainerParagraph from "../../components/layouts/container-paragraph";
 import PageMain from "../../components/layouts/page-main";
+import ProgramDetail from "../../components/layouts/program-detail";
+import program from "../../components/switcher/program.json";
 import ContainerImage from "../../components/layouts/container-image";
 import ContainerH2 from "../../components/layouts/container-h2";
 import ContainerUl from "../../components/layouts/container-ul";
@@ -24,6 +26,7 @@ export default async function BistroUDvouPratel() {
       <PageMain>
         <Container>
           <ContainerTitle>BISTRO u dvou přátel</ContainerTitle>
+          <ProgramDetail p={program[2]} className={``} />
           <ContainerDescription>
             Bagety pro vás připravilo BISTRO u<Nbsp />
             dvou přátel společnosti SKOK do života,
