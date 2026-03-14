@@ -175,7 +175,7 @@ export default function Header() {
               >
                 <li className="flex flex-row items-center">
                   <IconSignRight className="inline h-7 w-7 my-1 mr-2" />
-                  Jak funguje pastorace mládeže
+                  Jak fun�uje pastorace mládeže
                 </li>
               </Link>
               <Link

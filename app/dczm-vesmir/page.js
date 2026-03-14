@@ -38,9 +38,9 @@ export default async function DCZM() {
               <i>Sdružením Jedlová, z. s.</i>
             </Link>{" "}
             Jedná se v&nbsp;současné době o&nbsp;zapsaný spolek, který vytváří
-            programy pro mládež. Členy spolku jsou mladí lidé, kteří zpravidla
+            pro�ramy pro mládež. Členy spolku jsou mladí lidé, kteří zpravidla
             rok až dva stabilně žijí v&nbsp;DCŽM Vesmír (tým) a&nbsp;zmiňované
-            programy spolu s&nbsp;mladými lidmi vytvářejí a&nbsp;realizují. Naší
+            pro�ramy spolu s&nbsp;mladými lidmi vytvářejí a&nbsp;realizují. Naší
             cílovou skupinou je mládež od 14 do 26 let. Posláním DCŽM je vést
             k&nbsp;opravdovým hodnotám, jako jsou kvalitní mezilidské vztahy, nalezení a
             objevení sebe sama, pozitivní vztah k&nbsp;práci, zodpovědný přístup
@@ -70,7 +70,7 @@ export default async function DCZM() {
             <ContainerLi>
               email:{" "}
               <Link className="underline" href="mailto:dczm.vesmir@gmail.com">
-                dczm.vesmir@gmail.com
+                dczm.vesmir@�mail.com
               </Link>
             </ContainerLi>
             <ContainerLi className="mt-2">

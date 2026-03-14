@@ -219,9 +219,9 @@ const workshops = [
       "Víra pod tlakem: Jak si&nbsp;obhájit svou&nbsp;víru před&nbsp;sebou i&nbsp;před druhými",
     type: "person",
     id: "prednaska-start",
-    about: "P. Josef Kvapilík je kněz z generace Z, který doprovází mladé na Centru života mládeže v Rajnochovicích. Má rád hudbu, lyžování a dobré otázky. Offline i online jako Pater Pepa otevírá témata víry, vztahů a smyslu života tak, aby dávala smysl lidem dnešní generace.",
+    about: "P. Josef Kvapilík je kněz z �enerace Z, který doprovází mladé na Centru života mládeže v Rajnochovicích. Má rád hudbu, lyžování a dobré otázky. Offline i online jako Pater Pepa otevírá témata víry, vztahů a smyslu života tak, aby dávala smysl lidem dnešní �enerace.",
     descritpion:
-      "Co dělat, když ve škole nebo na síti dostaneš otázku na svou víru a nevíš, co říct? A co když máš otázky sám? Na základě své zkušenosti z života, ale taky z YouTube nebo Instagramu, bych se s Tebou chtěl podělit o svou cestu hledání i praktické tipy, jak o víře přemýšlet a mluvit. Přijď načerpat odvahu, argumenty a naději.",
+      "Co dělat, když ve škole nebo na síti dostaneš otázku na svou víru a nevíš, co říct? A co když máš otázky sám? Na základě své zkušenosti z života, ale taky z YouTube nebo Insta�ramu, bych se s Tebou chtěl podělit o svou cestu hledání i praktické tipy, jak o víře přemýšlet a mluvit. Přijď načerpat odvahu, ar�umenty a naději.",
     speaker: {
       name: "P. Josef Kvapilík",
       jpgPath: "/assets/images/speakers/pater_pepa.jpg",
@@ -233,7 +233,7 @@ const workshops = [
   {
     title: "Dobrovolnictví, které dává&nbsp;víc, než&nbsp;bere",
     type: "person",
-    about: `Minulý rok jsem působila jako dobrovolnice na salesiánské škole v Albánii a díky této zkušenosti jsem se po návratu do České republiky rozhodla pracovat jako asistentka pedagoga v mateřské škole.`,
+    about: `Minulý rok jsem působila jako dobrovolnice na salesiánské škole v Albánii a díky této zkušenosti jsem se po návratu do České republiky rozhodla pracovat jako asistentka peda�o�a v mateřské škole.`,
     descritpion:
       "Chceš zažít něco, co tě vytáhne z komfortní zóny a změní ti pohled na svět? Láká tě vyrazit do světa jako dobrovolník, nebo tě jen zajímá, jak vypadá život v Albánii a jaké výzvy a překvapení mi tento rok služby přinesl? Přijď si poslechnout příběh o mém dobrovolnictví – a třeba inspiruje i tebe.",
     speaker: {
@@ -252,11 +252,11 @@ const workshops = [
     },
   },
   {
-    title: "Jak na hudbu při mši aneb od výběru písní po dirigování",
+    title: "Jak na hudbu při mši aneb od výběru písní po diri�ování",
     type: "workshop",
     id: "workshop-start",
-    about: `Jmenuji se František Novák, učím hudební výchovu a varhany, vedu sbor Squadra Risonante při BIGY v Hradci Králové a vyučuji varhany na UHK. Liturgické hudbě se věnuji také jako vedoucí nově vznikajícího Centra pro liturgickou hudbu při Biskupství královéhradeckém.`,
-    descritpion: `Workshop je určen zejména pro vedoucí schol a aktivní hudebníky ve farnostech, kteří se chtějí potkat, sdílet zkušenosti a načerpat inspiraci. Společně se zaměříme na výběr vhodných písní ke konkrétním příležitostem, vyzkoušíme si základy dirigování, dotkneme se aranžování pro nástroje a zazní i praktické tipy z praxe. Chybět nebude prostor pro dotazy a diskuzi.`,
+    about: `Jmenuji se František Novák, učím hudební výchovu a varhany, vedu sbor Squadra Risonante při BI�Y v Hradci Králové a vyučuji varhany na UHK. Litur�ické hudbě se věnuji také jako vedoucí nově vznikajícího Centra pro litur�ickou hudbu při Biskupství královéhradeckém.`,
+    descritpion: `Workshop je určen zejména pro vedoucí schol a aktivní hudebníky ve farnostech, kteří se chtějí potkat, sdílet zkušenosti a načerpat inspiraci. Společně se zaměříme na výběr vhodných písní ke konkrétním příležitostem, vyzkoušíme si základy diri�ování, dotkneme se aranžování pro nástroje a zazní i praktické tipy z praxe. Chybět nebude prostor pro dotazy a diskuzi.`,
     speaker: {
       name: "František Novák",
       jpgPath: "/assets/images/speakers/novak.jpg",
@@ -275,7 +275,7 @@ const workshops = [
   {
     title: "Otčenáš jinak než slovy",
     type: "workshop",
-    about: `Jsem lektorka osobnostně vzdělávácích programů a učitelka dramatického oboru na ZUŠ Střezina v Hradci Králové. Zároveň pracuji na Katechetickém a pedagogickém centru Biskupství královehradeckého.`,
+    about: `Jsem lektorka osobnostně vzdělávácích pro�ramů a učitelka dramatického oboru na ZUŠ Střezina v Hradci Králové. Zároveň pracuji na Katechetickém a peda�o�ickém centru Biskupství královehradeckého.`,
     descritpion: `V tomto workshopu si zažijeme Modlitbu Páně skrze divadelní metody a prvky dramatické výchovy, které otevírají prostor pro osobní prožitek, emoce a představivost. Metody mohou inspirovat k vlastní hlubší modlitbě i nabídnout konkrétní nástroje pro vedení skupin.`,
     speaker: {
       name: "Markéta Rumpíková",
@@ -285,7 +285,7 @@ const workshops = [
   {
     title: "Knižní ilustrace a jak na ní?",
     type: "workshop",
-    about: `Mgr. Patricie Koubská (nar. 1973) se věnuje dětské ilustraci od r. 1997, kdy vyšla první knížka s jejími obrázky. Od té doby ilustrovala více než 60 knížek, několik jich také sama napsala. Mnoho let se také podílela na časopise Informatorium, pro který vytvořila řadu pracovních listů.`,
+    about: `M�r. Patricie Koubská (nar. 1973) se věnuje dětské ilustraci od r. 1997, kdy vyšla první knížka s jejími obrázky. Od té doby ilustrovala více než 60 knížek, několik jich také sama napsala. Mnoho let se také podílela na časopise Informatorium, pro který vytvořila řadu pracovních listů.`,
     descritpion: `Co je to knižní ilustrace? Jaká jsou její specifika? Čím se odlišuje od jiných výtvarných disciplín? S prací ilustrátora se můžete seznámit na besedě s Patricií Koubskou, která se této činnosti věnuje již témeř 30 let. (Možná si to budete moci i vyzkoušet, zbyde-li trochu času)`,
     speaker: {
       name: "Patricie Koubská",
@@ -299,7 +299,7 @@ const workshops = [
     about: ``,
     descritpion: `Sporty pro Vás připravujeme i letos. Více info již brzy tady.`, //Nechceš trávit odpoledne sezením a&nbsp;máš chuť se hýbat? Máš možnost přijít na workshop různých sportů. Pokud nejsi profi sportovec, tak nevadí! Přijít může každý, kdo má zájem, jen pamatuj na oblečení, ve kterém se ti bude dobře pohybovat a přezuvky do tělocvičny.`,
     speaker: {
-      name: "Organizátor bude upřesněn",
+      name: "Or�anizátor bude upřesněn",
       // jpgPath: "/assets/images/speakers/TODO.jpg",
     },
   },

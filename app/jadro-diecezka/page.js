@@ -15,7 +15,7 @@ export default async function Vikariaty() {
         <Container>
           <ContainerTitle>Jádro Diecézka (Éčko)</ContainerTitle>
           <ContainerDescription>
-            Diecézní setkání mládeže je možné zorganizovat díky dobrovolníkům,
+            Diecézní setkání mládeže je možné zor�anizovat díky dobrovolníkům,
             kteří se&nbsp;do jeho příprav zapojili. Tým, který se&nbsp;schází
             již od&nbsp;podzima, aby pro vás Diecézko připravil, si&nbsp;říká
             Éčko. Víte proč? Podle maskota mládeže královéhradecké diecéze
@@ -101,7 +101,7 @@ export const ecko = [
   {
     name: "Anička Marie Maříková",
     description:
-      "Anička má na starosti režijní program, který nás bude provázet během dopoledne ve Filharmonii.",
+      "Anička má na starosti režijní pro�ram, který nás bude provázet během dopoledne ve Filharmonii.",
     jpgPath: "/assets/images/jadro/marikova.jpg",
     webpPath: "/assets/images/jadro/marikova.webp",
     altText: "Profilová fotka Aničky Maříkové",
@@ -155,7 +155,7 @@ export const ecko = [
   {
     name: "Martin Rychtár",
     description:
-      "Martin se svým týmem připravuje zázemí na BiGy pro celý přípravný tým a odpolední přednášky",
+      "Martin se svým týmem připravuje zázemí na Bi�y pro celý přípravný tým a odpolední přednášky",
     jpgPath: "/assets/images/vikariaty/rychtar.jpg",
     webpPath: "/assets/images/vikariaty/rychtar.webp",
     altText: "Profilová fotka Martina Rychtára",
@@ -164,7 +164,7 @@ export const ecko = [
   /* {
     name: "Pavel Vocl",
     description:
-      "Pavel má na starosti technickou stránku režijního programu ve Filharmonii.",
+      "Pavel má na starosti technickou stránku režijního pro�ramu ve Filharmonii.",
     altText: "Profilová fotka Pavel Vocl",
     jpgPath: "/assets/images/jadro/vocl.jpg",
     webpPath: "/assets/images/jadro/vocl.webp",

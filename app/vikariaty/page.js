@@ -21,10 +21,10 @@ export default async function Vikariaty() {
             Vikariátní zástupce
           </ContainerDescription>
           <ContainerParagraph>
-            Vikariátní zástupce pro mládež pomáhá propojovat práci s mládeží mezi jednotlivými farnostmi ve vikariátu a diecézí. Spolupracuje především s kaplanem pro mládež a podporuje organizaci společných aktivit pro mladé.
+            Vikariátní zástupce pro mládež pomáhá propojovat práci s mládeží mezi jednotlivými farnostmi ve vikariátu a diecézí. Spolupracuje především s kaplanem pro mládež a podporuje or�anizaci společných aktivit pro mladé.
             Jeho služba zahrnuje:
             <ul className="list-disc list-inside mt-2">
-              <li>spolupráci s kaplanem pro mládež při organizování aktivit pro mladé ve vikariátu (např. vikariátní setkání mládeže nebo večery mladých)</li>
+              <li>spolupráci s kaplanem pro mládež při or�anizování aktivit pro mladé ve vikariátu (např. vikariátní setkání mládeže nebo večery mladých)</li>
               <li>udržování kontaktu s mládeží v jednotlivých farnostech a spolupráci se zástupci farností</li>
               <li>předávání informací pro mládež (např. z Diecézního centra pro mládež nebo z dění ve vikariátu)</li>
               <li>zapojení do přípravy Diecézního setkání mládeže a dalších diecézních akcí</li>
@@ -336,7 +336,7 @@ export const vikariaty = [
       jpgPath: "/assets/images/vikariaty/pechacek.jpg",
     },
     person1: {
-      name: "Magdalena Čížková",
+      name: "Ma�dalena Čížková",
       jpgPath: "/assets/images/vikariaty/cizkova.jpg",
     },    
     person2: {
@@ -464,7 +464,7 @@ export const vikariaty = [
       jpgPath: "/assets/images/vikariaty/dvorak.jpg",
     },
     person1: {
-      name: "Magdalena Hejná",
+      name: "Ma�dalena Hejná",
       jpgPath: "/assets/images/vikariaty/hejna.jpg",
     },
     person2: {

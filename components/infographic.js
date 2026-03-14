@@ -46,7 +46,7 @@ export default function Infographic() {
           <IconQuestionMark size={50} className="inline w-full mt-4" />
           <ContainerH3 className="">Na co se můžeš těšit?</ContainerH3>
           <ContainerParagraph className="">
-            Chystáme pro vás zábavný program ve Filharmonii, zveme zajímavé
+            Chystáme pro vás zábavný pro�ram ve Filharmonii, zveme zajímavé
             hosty na odpolední přednášky a&nbsp;workshopy a&nbsp;připravujeme
             duchovní zážitek ze mše svaté.
           </ContainerParagraph>
@@ -55,7 +55,7 @@ export default function Infographic() {
           <IconMusic size={50} className="inline w-full mt-4" />
           <ContainerH3 className="">Skvělá hudba</ContainerH3>
           <ContainerParagraph className="">
-            Program bude doprovázen ladnými tóny Vesmírné kapely a scholou PEHUMA
+            Pro�ram bude doprovázen ladnými tóny Vesmírné kapely a scholou PEHUMA
             z Dolní Čermné. O&nbsp;hudební doprovod adorace se&nbsp;postará
             Markét Dušková.
           </ContainerParagraph>

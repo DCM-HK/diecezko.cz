@@ -16,8 +16,8 @@ export default function Instalace() {
           <ContainerTitle>Instalace</ContainerTitle>
           <ContainerDescription></ContainerDescription>
           <ContainerParagraph>
-            Aby webová aplikace fungovala i&nbsp;bez internetu, je ji třeba
-            nainstalovat jako tzv. progresivní webovou aplikaci. Na počítačích
+            Aby webová aplikace fun�ovala i&nbsp;bez internetu, je ji třeba
+            nainstalovat jako tzv. pro�resivní webovou aplikaci. Na počítačích
             a&nbsp;telefonech s&nbsp;operačním systémem Android se instalace
             spustí sama. Pokud ale máte iOS (<em>iPhone</em>), je třeba
             postupovat následujícím způsobem.
