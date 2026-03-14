@@ -16,7 +16,7 @@ const LION_WIDTH_PX = 100;
 const FIRST_APPEARANCE_MIN_MS = 10; //10000;
 const FIRST_APPEARANCE_MAX_MS = 30; //30000;
 const STAY_MIN_MS = 10000;
-const STAY_MAX_MS = 30000;
+const STAY_MAX_MS = 20000;
 const NEXT_APPEARANCE_MIN_MS = 10; // 30000;
 const NEXT_APPEARANCE_MAX_MS = 30; // 240000;
 
@@ -48,23 +48,9 @@ function createLionRun(viewportWidth) {
   );
   const maxX = Math.max(sidePadding, viewportWidth - width - sidePadding);
   const startX = randomFloat(sidePadding, maxX);
-  const leftRoom = startX - sidePadding;
-  const rightRoom = maxX - startX;
 
   let direction = Math.random() < 0.5 ? -1 : 1;
-  let room = direction === 1 ? rightRoom : leftRoom;
-
-  if (room < 48) {
-    direction = rightRoom >= leftRoom ? 1 : -1;
-    room = direction === 1 ? rightRoom : leftRoom;
-  }
-
-  const minTravel = Math.min(room, 64);
-  const maxTravel = Math.min(room, Math.max(120, viewportWidth * 0.28));
-  const travelDistance =
-    room > 0
-      ? randomFloat(minTravel, Math.max(minTravel, maxTravel))
-      : 0;
+  const travelDistance = randomFloat(400, 800);
   const stayDuration = randomBetween(STAY_MIN_MS, STAY_MAX_MS);
 
   return {
