@@ -5,6 +5,7 @@ import ContainerTitle from "../../components/layouts/container-title";
 import ContainerDescription from "../../components/layouts/container-description";
 import ContainerParagraph from "../../components/layouts/container-paragraph";
 import PageMain from "../../components/layouts/page-main";
+import SwappingGallery from "../../components/swapping-gallery";
 import ContainerImage from "../../components/layouts/container-image";
 import ContainerH2 from "../../components/layouts/container-h2";
 import ContainerUl from "../../components/layouts/container-ul";
@@ -38,12 +39,7 @@ export default async function DCZM() {
             chtějí popovídat. Můžete nás potkat pravidelně každou středu od 19:00 na mši nebo
             po ní na různorodých aktivitách, které jsou pořádané námi pro jiné studenty.
           </ContainerDescription>
-          <ContainerImage
-            jpgPath="/assets/images/spolecenstvi/salas/kostel.jpg"
-            webpPath="/assets/images/spolecenstvi/salas/kostel.webp"
-            altText="KAK Salaš v kostele"
-            className="w-full my-2"
-          />
+          <SwappingGallery images={gallery} />
           <ContainerH2>Pravidelný středeční pro�ram</ContainerH2>
           <ContainerUl>
             <ContainerLi>18:00 Nácvik hudby se scholou</ContainerLi>
@@ -56,12 +52,11 @@ export default async function DCZM() {
             večer, PubQuiz, přednášky, nebo si jdeme o&nbsp;zkouškovém jen tak
             sednout na pivo.
           </ContainerParagraph>
-          <ContainerImage
-            jpgPath="/assets/images/spolecenstvi/salas/laser-game.jpg"
-            webpPath="/assets/images/spolecenstvi/salas/laser-game.webp"
-            altText="KAK Salaš v katakombách"
-            className="w-full my-2"
-          />
+          <ContainerH2>Deskovky</ContainerH2>
+          <ContainerParagraph>
+            Pokud Tě baví deskové hry, určitě přijď na deskové hry na FIMku
+            každé poslední úterý v&nbsp;měsíci. Termíny deskovek jsou: 31. 3, 28. 4 a&nbsp;26. 5. 
+          </ContainerParagraph>
           <ContainerH2>Sheeep Ples</ContainerH2>
           <ContainerParagraph>
             Ten letošní se koná 10. dubna od 19:00 na Budově A Univerzity Hradec Králové a lístky
@@ -76,17 +71,6 @@ export default async function DCZM() {
             altText="Sheep ples"
             className="w-full my-2"
           />
-          <ContainerH2>Deskovky</ContainerH2>
-          <ContainerParagraph>
-            Pokud Tě baví deskové hry, určitě přijď na deskové hry na FIMku
-            každé poslední úterý v&nbsp;měsíci. Termíny deskovek jsou: 31. 3, 28. 4 a&nbsp;26. 5. 
-          </ContainerParagraph>
-          <ContainerImage
-            jpgPath="/assets/images/spolecenstvi/salas/katakomby.jpg"
-            webpPath="/assets/images/spolecenstvi/salas/katakomby.webp"
-            altText="KAK Salaš v katakombách"
-            className="w-full my-2"
-          />
           <ContainerParagraph>
             I&nbsp;když je klub a&nbsp;jeho aktivity přednostně orientován na
             studenty, kteří věří ve Vzkříšeného Krista ve společenství katolické
@@ -94,12 +78,6 @@ export default async function DCZM() {
             i&nbsp;všem hledajícím a&nbsp;zájemcům o&nbsp;duchovní život
             a&nbsp;činnost, které studentský klub or�anizuje.
           </ContainerParagraph>
-          <ContainerImage
-            jpgPath="/assets/images/spolecenstvi/salas/prskavky.jpg"
-            webpPath="/assets/images/spolecenstvi/salas/prskavky.webp"
-            altText="KAK Salaš v noci s prskavkami"
-            className="w-full my-2"
-          />
           <ContainerParagraph>Těšíme se na vás!</ContainerParagraph>
           <ContainerH2>Sledujte na nás na:</ContainerH2>
           <ContainerUl className={`!list-none !pl-0 mb-6`}>
@@ -136,3 +114,23 @@ export default async function DCZM() {
     </main>
   );
 }
+
+
+const gallery = [
+  {
+    path: "/assets/images/spolecenstvi/salas/kostel.jpg",
+    alt: "KAK Salaš v kostele",
+  },
+  {
+    path: "/assets/images/spolecenstvi/salas/laser-game.jpg",
+    alt: "KAK Salaš v katakombách",
+  },
+  {
+    path: "/assets/images/spolecenstvi/salas/katakomby.jpg",
+    alt: "KAK Salaš v katakombách",
+  },
+  {
+    path: "/assets/images/spolecenstvi/salas/prskavky.jpg",
+    alt: "KAK Salaš v noci s prskavkami",
+  },
+];

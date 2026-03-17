@@ -199,4 +199,11 @@ const ears = [
     title: "Pokud máš nějaké otázky nebo pochybnosti, dotazy, na které se bojíš zeptat, něco, za co se chceš s někým pomodlit nebo třeba potřebuješ jen něco sdílet a nevíš s kým, jsem tu pro Tebe k dispozici.",
     about: "Už rok a půl jsem v komunitě na Hoješíně u Seče. Z mé služby na tomto místě mám nejraději čas s dětmi a mladými lidmi při výuce náboženství, spolčích nebo na akcích u nás. Jinak mě baví spousta věcí, od hraní na klavír, přes pečení, různé kreativní činnosti, hraní her, filmy až po historii."
   },
+  {
+    name: "sr. Romana Dvořáková",
+    jpgPath: "/assets/images/ears/dvorakova.jpg",
+    webpPath: "/assets/images/ears/dvorakova.webp",
+    title: "Máš pocit, že musíš žít podle očekávání druhých? Máš pocit, že mluvíš „řečí jiného kmene“ než tví rodiče? Jak skloubit víru se životem, který žiješ? Neboj se: JSI PRO MĚ DŮLEŽITÝ/Á! CHCI TI NASLOUCHAT A POSVÍTIT NA CESTU.",
+    about: "Sestra Romana Dvořáková je řádovou sestrou z generace X. Patří k vincentkám z komunity v Hradci Králové. Dříve pracovala se seniory, lidmi bez přístřeší a sociálně vyloučenými. Nyní pracuje jako terénní sociální pracovnice neziskovky Salinger – Triangl. Navštěvuje rodiny, ve kterých něco nefunguje (chybí denní režim, při výchově nejsou nastaveny hranice, děti nebo rodiče zažívají/zažili trauma, které se jim prolíná do současného života, …). Má ráda přírodu, procházky, rozhovory s lidmi, děti a mládež a hezké čtení."
+  },
 ];
