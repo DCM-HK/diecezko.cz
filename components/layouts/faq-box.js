@@ -13,6 +13,7 @@ import {
   IconPigMoney,
   IconNotes,
   IconUsers,
+  IconSearch,
 } from "@tabler/icons";
 import { useState } from "react";
 import IconCustomDenikSracu from "../images/deniksracu";
@@ -64,6 +65,8 @@ export default function FaqBox({ className, id, children, question, icon }) {
             <IconNotes className={`inline h-5 mr-2`} stroke={1.2} />
           ) : icon === "users" ? (
             <IconUsers className={`inline h-5 mr-2`} stroke={1.2} />
+          ) : icon === "search" ? (
+            <IconSearch className={`inline h-5 mr-2`} stroke={1.2} />
           ) : null}
           <span
             dangerouslySetInnerHTML={{ __html: `${question}` }}

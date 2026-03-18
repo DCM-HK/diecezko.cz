@@ -4,6 +4,7 @@ import Link from "next/link";
 import ContainerH3 from "./layouts/container-h3";
 import ContainerOl from "./layouts/container-ol";
 import ContainerLi from "./layouts/container-li";
+import GSvg from "./images/g_svg";
 
 export default function FAQ() {
   return (
@@ -176,7 +177,7 @@ export default function FAQ() {
         .
         {/* Pokud by vás odpoledne přepadla mlsná, je možné zajít i&nbsp;do naší{" "}
         <Link href={`/mapa?x=50.2062919&y=15.8337133`} className="underline">
-          kavárny
+        kavárny
         </Link>
         . */}
       </FaqBox>
@@ -245,16 +246,23 @@ export default function FAQ() {
         Zastávka D1 – 7<br />
         Zastávka D2 – 11, 13
       </FaqBox>
+      <FaqBox question={"Kam zmizelo písmeno G?"} icon={`search`}>
+        <span className="font-bold">{GSvg()} mizí po celém Hradci, svědci viděli lva s písmenem!</span><br />
+        V Hradci Králové začalo mizet písmeno „{GSvg()}“! Svědci tvrdí, že zahlédli Hradeckého lva,
+        jak běží ulicemi ... <Link href={`/kam-zmizelo-pismeno`} target="_Self" className="underline font-semibold">
+          číst dál
+        </Link>.
+      </FaqBox>
       {/* 
       <FaqBox question={`Kam si odskočit na záchod?`} icon={`toilet`}>
-        Nezoufej, mrkni{" "}
-        <Link
-          href="https://deniksracu.cz/"
-          target="_blank"
-          rel="external"
-          className="underline font-semibold"
-        >
-          sem
+      Nezoufej, mrkni{" "}
+      <Link
+      href="https://deniksracu.cz/"
+      target="_blank"
+      rel="external"
+      className="underline font-semibold"
+      >
+      sem
         </Link>{" "}
         a&nbsp;najdi si nejbližší trůn, který bude vyhovovat tvým požadavkům.
       </FaqBox>
