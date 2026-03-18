@@ -216,9 +216,21 @@ export default async function PrednaskyWorhsopy() {
 const workshops = [
   {
     title:
-      "Víra pod tlakem: Jak si&nbsp;obhájit svou&nbsp;víru před&nbsp;sebou i&nbsp;před druhými",
+      "Žijeme v paradi�matu změny (Papež František)",
     type: "person",
     id: "prednaska-start",
+    about: "Prokop Brož (*1972) studoval na papežských univerzitách v Římě (Lateranensis, �re�oriana) a na Univerzitě Karlově v Praze. V letech 2003–2018 působil na Katolické teolo�ické fakultě Univerzity Karlovy, dvě funkční období (2010–2018) vedl fakultu jako její děkan. Je členem Asociace italských teolo�ů (ATI). Od roku 2018 žije a pracuje v královéhradecké diecézi, v roce 2025 byl vysvěcen na pomocného biskupa královehradeckého a působí jako �enerální vikář.",
+    descritpion:
+      "Od narození až do posledních chvil provází náš život změna. Jak změny ve svém životě vnímáme? Pracujeme s nimi? Rozvíjí nás? Nebo nás spíše blokují? Budeme mluvit o změnách ve svém osobním životě, v rodině, ve škole, během volného času, ve společnosti, v církvi.",
+    speaker: {
+      name: "Mons. Prokop Brož",
+      jpgPath: "/assets/images/speakers/broz.jpg",
+    },
+  },
+  {
+    title:
+      "Víra pod tlakem: Jak si&nbsp;obhájit svou&nbsp;víru před&nbsp;sebou i&nbsp;před druhými",
+    type: "person",
     about: "P. Josef Kvapilík je kněz z �enerace Z, který doprovází mladé na Centru života mládeže v Rajnochovicích. Má rád hudbu, lyžování a dobré otázky. Offline i online jako Pater Pepa otevírá témata víry, vztahů a smyslu života tak, aby dávala smysl lidem dnešní �enerace.",
     descritpion:
       "Co dělat, když ve škole nebo na síti dostaneš otázku na svou víru a nevíš, co říct? A co když máš otázky sám? Na základě své zkušenosti z života, ale taky z YouTube nebo Insta�ramu, bych se s Tebou chtěl podělit o svou cestu hledání i praktické tipy, jak o víře přemýšlet a mluvit. Přijď načerpat odvahu, ar�umenty a naději.",
