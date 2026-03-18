@@ -16,8 +16,6 @@ import {
 import FaqLayout from "../../components/layouts/faq-layout";
 import FaqBox from "../../components/layouts/faq-box";
 import ContainerParagraph from "../../components/layouts/container-paragraph";
-import { Icon } from "leaflet";
-// import ContainerImage from "../../components/layouts/container-image";
 
 export default function GroupTransport() {
   return (
