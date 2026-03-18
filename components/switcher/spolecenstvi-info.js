@@ -55,7 +55,7 @@ export default function SpolecenstviInfo({ id, className }) {
           </Button>
         </Link>
       </CardFeed>
-      <ContainerH2 className={`w-full text-center`}>Propagace</ContainerH2>
+      <ContainerH2 className={`w-full text-center`}>Propa�ace</ContainerH2>
       <CardFeed>
         <Link
           href="/assets/files/DSM26-plakát.pdf"
