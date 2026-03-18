@@ -59,7 +59,7 @@ export default function Playlist() {
             zahlaď všechny moje viny a mé srdce bude čisté.
             <br />A mé srdce bude čisté.
           </ContainerParagraph>
-          <ContainerH2>Evangelium: Nám, Pane, dal jsi slovo své</ContainerH2>
+          <ContainerH2>Evan�elium: Nám, Pane, dal jsi slovo své</ContainerH2>
           <ContainerParagraph>
             R: Nám, Pane, dal jsi Slovo své,
             <br />

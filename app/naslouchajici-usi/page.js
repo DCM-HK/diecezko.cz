@@ -193,7 +193,7 @@ const ears = [
     about: "Jsem \"štastně Bohu zasvěcená žena\", mám ráda modlitbu chval, toulání po lesních cestách a Řím."
   },
   {
-    name: "S. Antonína Bílková (kongregace Školských sester sv. Františka)",
+    name: "S. Antonína Bílková (kon�re�ace Školských sester sv. Františka)",
     jpgPath: "/assets/images/ears/bilkova.jpg",
     webpPath: "/assets/images/ears/bilkova.webp",
     title: "Pokud máš nějaké otázky nebo pochybnosti, dotazy, na které se bojíš zeptat, něco, za co se chceš s někým pomodlit nebo třeba potřebuješ jen něco sdílet a nevíš s kým, jsem tu pro Tebe k dispozici.",

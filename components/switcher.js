@@ -69,7 +69,7 @@ export default function Switcher() {
           className={`cursor-pointer rounded-full md:p-3 md:pt-4 md:px-8 p-2 px-4 duration-300 ${programButton}`}
           onClick={openProgram}
         >
-          Program
+          Pro�ram
         </div>
         <div
           className={`cursor-pointer rounded-full md:p-3 md:pt-4 md:px-8 p-2 px-4 duration-300 ${InfoButton}`}

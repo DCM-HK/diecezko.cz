@@ -1,7 +1,7 @@
 const homeUrl = "https://diecezko.cz/";
 const title = "Diecézko";
 const description =
-  "Brožura pro Diecézní setkání mládeže královehradecké diecéze, které začne společným programem v sobotu 5. dubna v 9:30 ve Filharmonii. Těšte se také na hosty, workshopy, duchovní program či na závěrečnou mši svatou s biskupy v katedrále sv. Ducha.";
+  "Brožura pro Diecézní setkání mládeže královehradecké diecéze, které začne společným pro�ramem v sobotu 5. dubna v 9:30 ve Filharmonii. Těšte se také na hosty, workshopy, duchovní pro�ram či na závěrečnou mši svatou s biskupy v katedrále sv. Ducha.";
 const color = "#022960";
 
 export const meta = {

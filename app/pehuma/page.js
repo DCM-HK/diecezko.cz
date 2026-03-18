@@ -36,7 +36,7 @@ export default async function Pehuma() {
           />
           <ContainerParagraph>
             Jsme Dolnočermenské spolčo a schola PEHUMA a rádi spolu trávíme čas nejen zpěvem,
-            ale i sdílením duchovních zkušeností a hrami. Fungujeme už od roku 1986, takže máme
+            ale i sdílením duchovních zkušeností a hrami. Fun�ujeme už od roku 1986, takže máme
             za&nbsp;sebou kus společné historie. Dnes se nás schází asi patnáct a setkáváme&nbsp;se
             každých 14&nbsp;dní na&nbsp;faře. Začínáme zkouškou zpěvu na mši svatou, která je v 19:00.
             Po&nbsp;mši pak pokračujeme naším spolčem. Vždy si někdo připraví krátké téma k zamyšlení

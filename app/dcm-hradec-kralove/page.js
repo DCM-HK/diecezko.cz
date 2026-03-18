@@ -41,7 +41,7 @@ export default async function DCM() {
           <ContainerH2>Poslání DCM</ContainerH2>
           <ContainerUl>
             <ContainerLi>
-              Organizuje diecézní a&nbsp;jiná setkání mládeže.
+              Or�anizuje diecézní a&nbsp;jiná setkání mládeže.
             </ContainerLi>
             <ContainerLi>
               Podílí se na formaci animátorů společenství mládeže.
@@ -107,7 +107,7 @@ export default async function DCM() {
               </Link>
               ,{" "}
               <Link className="underline" href="mailto:dcm.bihk@gmail.com">
-                dcm.bihk@gmail.com
+                dcm.bihk@�mail.com
               </Link>
               <br />
               telefon:{" "}
@@ -162,7 +162,7 @@ export const dcm = [
   {
     name: "P. Jenda Pitřinec",
     description:
-      "O. Jenda je od září 2025 novým ředitelem DCŽM Vesmír a DCM Hradec Králové. Prošel skautem, VeKou, ZUŠkou (hraje na housle) a&nbsp;gymplem. Část seminárních studií prožil v&nbsp;Římě. Provozuje všechny druhy sportů od windsurfu přes tenis, fotbal až k&nbsp;lyžím a&nbsp;snowboardu. Rád poslouchá, ale i&nbsp;se aktivně zapojuje do hudby či zpěvu. Miluje jídlo – především to z&nbsp;hovězího. Těší jej povídání si s&nbsp;druhými zvlášť při kafi či jiných dobrých italských pochutinách.",
+      "O. Jenda je od září 2025 novým ředitelem DCŽM Vesmír a DCM Hradec Králové. Prošel skautem, VeKou, ZUŠkou (hraje na housle) a&nbsp;�ymplem. Část seminárních studií prožil v&nbsp;Římě. Provozuje všechny druhy sportů od windsurfu přes tenis, fotbal až k&nbsp;lyžím a&nbsp;snowboardu. Rád poslouchá, ale i&nbsp;se aktivně zapojuje do hudby či zpěvu. Miluje jídlo – především to z&nbsp;hovězího. Těší jej povídání si s&nbsp;druhými zvlášť při kafi či jiných dobrých italských pochutinách.",
     jpgPath: "/assets/images/dcm/pitrinec.jpg",
     webpPath: "/assets/images/dcm/pitrinec.webp",
     altText: "Profilová fotka P. Jendy Pitřince",
@@ -180,7 +180,7 @@ export const dcm = [
   {
     name: "Josi Pazderová",
     description:
-      "Josi je naší nejmladší členkou týmu. Má na starosti spolupráci se Sekcí pro mládež a&nbsp;aktivně podporuje ministrantky. Ve volném čase miluje detektivky, tanec a&nbsp;pilates. Ráda si odpočine u&nbsp;uklízení a&nbsp;nedá dopustit na kvalitní spánek. Když má možnost, utíká za sluncem a&nbsp;klidem do Portugalska, kam se ráda vrací.",
+      "Josi je naší nejmladší členkou týmu. Má na starosti spolupráci se Sekcí pro mládež a&nbsp;aktivně podporuje ministrantky. Ve volném čase miluje detektivky, tanec a&nbsp;pilates. Ráda si odpočine u&nbsp;uklízení a&nbsp;nedá dopustit na kvalitní spánek. Když má možnost, utíká za sluncem a&nbsp;klidem do Portu�alska, kam se ráda vrací.",
     jpgPath: "/assets/images/dcm/pazderova.jpg",
     webpPath: "/assets/images/dcm/pazderova.webp",
     altText: "Profilová fotka Josi Pazderové",
@@ -189,7 +189,7 @@ export const dcm = [
   {
     name: "Dan Blažek",
     description:
-      "Dan je náš nejnovější člen týmu. Má na starost koordinaci farních aktivit a&nbsp;rád přemýšlí, jak věci fungují, a&nbsp;ještě raději to zkouší v&nbsp;praxi. Baví ho 3D tisk a&nbsp;různé technické vychytávky. Když chytí slinu, napíše krátký příběh nebo báseň. Pochází z&nbsp;Nového Města nad Metují, vystudoval strojařinu, prošel teologickým konviktem, rokem v&nbsp;týmu na Vesmíru i&nbsp;římským seminářem.",
+      "Dan je náš nejnovější člen týmu. Má na starost koordinaci farních aktivit a&nbsp;rád přemýšlí, jak věci fun�ují, a&nbsp;ještě raději to zkouší v&nbsp;praxi. Baví ho 3D tisk a&nbsp;různé technické vychytávky. Když chytí slinu, napíše krátký příběh nebo báseň. Pochází z&nbsp;Nového Města nad Metují, vystudoval strojařinu, prošel teolo�ickým konviktem, rokem v&nbsp;týmu na Vesmíru i&nbsp;římským seminářem.",
     jpgPath: "/assets/images/dcm/blazek.jpg",
     webpPath: "/assets/images/dcm/blazek.webp",
     altText: "Profilová fotka Dana Blažka",
@@ -198,7 +198,7 @@ export const dcm = [
   {
     name: "Jindra Řezníček",
     description:
-      "Jindra má rád práci všeho druhu. Nezalekne se dřeva, cihel, elektřiny, vody či topení. Své nadšení uplatňuje při drobných opravách, které nám zpříjemňují prostředí. Ve volných chvílích se zajímá o&nbsp;psychologii a&nbsp;programování. Je velký milovník železnice a&nbsp;toulání se v&nbsp;přírodě. Má na starost technické věci, novinky na webu a&nbsp;komunikaci s&nbsp;vikariátními kaplany a&nbsp;zástupci pro mládež.",
+      "Jindra má rád práci všeho druhu. Nezalekne se dřeva, cihel, elektřiny, vody či topení. Své nadšení uplatňuje při drobných opravách, které nám zpříjemňují prostředí. Ve volných chvílích se zajímá o&nbsp;psycholo�ii a&nbsp;pro�ramování. Je velký milovník železnice a&nbsp;toulání se v&nbsp;přírodě. Má na starost technické věci, novinky na webu a&nbsp;komunikaci s&nbsp;vikariátními kaplany a&nbsp;zástupci pro mládež.",
     jpgPath: "/assets/images/dcm/reznicek.jpg",
     webpPath: "/assets/images/dcm/reznicek.webp",
     altText: "Profilová fotka Jindry Řezníčka",

@@ -32,12 +32,12 @@ export default function GroupTransport() {
               <ContainerParagraph>
                 V pátek 27. 3. se v našem vikariátu uskuteční před-diecézní setkání mládeže jako
                 příležitost společně se naladit na blížící se diecézní setkání. Začne v 15:30 ve
-                farní místnosti v Novém Adalbertinu. Program nabídne hry, krátké témátko, modlitbu
+                farní místnosti v Novém Adalbertinu. Pro�ram nabídne hry, krátké témátko, modlitbu
                 i prostor pro setkání a sdílení. Na závěr se zapojíme do přípravy křížové cesty na
                 Novém Hradci Králové, kam se společně přesuneme MHD.
               </ContainerParagraph>
               <ContainerParagraph>
-                Více informací na instagramu:&nbsp;
+                Více informací na insta�ramu:&nbsp;
                 <Link
                   href="https://www.instagram.com/spolco_hk/"
                   target="_blank"
@@ -80,7 +80,7 @@ export default function GroupTransport() {
                   href="mailto:vikariatustinadorlici@gmail.com"
                   className="underline"
                 >
-                  vikariatustinadorlici@gmail.com
+                  vikariatustinadorlici@�mail.com
                 </Link>
               </ContainerParagraph>
               <ContainerImageBase

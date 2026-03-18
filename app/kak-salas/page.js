@@ -35,20 +35,20 @@ export default async function DCZM() {
             </Link>
             , tedy Vysokoškolského katolického hnutí, a úzce spolupracuje
             s Akademickou duchovní službou při Královehradecké diecézi. Jsme parta vysokoškolských
-            studentů, kteří mezi sebou rádi uvítají všechny, které zaujme náš program nebo si jen
+            studentů, kteří mezi sebou rádi uvítají všechny, které zaujme náš pro�ram nebo si jen
             chtějí popovídat. Můžete nás potkat pravidelně každou středu od 19:00 na mši nebo
             po ní na různorodých aktivitách, které jsou pořádané námi pro jiné studenty.
           </ContainerDescription>
           <SwappingGallery images={gallery} />
-          <ContainerH2>Pravidelný středeční program</ContainerH2>
+          <ContainerH2>Pravidelný středeční pro�ram</ContainerH2>
           <ContainerUl>
             <ContainerLi>18:00 Nácvik hudby se scholou</ContainerLi>
             <ContainerLi>19:00 Mše svatá v kostele Nanebevzetí Panny Marie na Velkém náměstí</ContainerLi>
-            <ContainerLi>20:00 Následující program</ContainerLi>
+            <ContainerLi>20:00 Následující pro�ram</ContainerLi>
           </ContainerUl>
-          <ContainerH2>Program po mši svaté</ContainerH2>
+          <ContainerH2>Pro�ram po mši svaté</ContainerH2>
           <ContainerParagraph>
-            Ptáte se, co jest program po mši? Pro představu pořádáme Muzikantský
+            Ptáte se, co jest pro�ram po mši? Pro představu pořádáme Muzikantský
             večer, PubQuiz, přednášky, nebo si jdeme o&nbsp;zkouškovém jen tak
             sednout na pivo.
           </ContainerParagraph>
@@ -76,7 +76,7 @@ export default async function DCZM() {
             studenty, kteří věří ve Vzkříšeného Krista ve společenství katolické
             církve, je ekumenicky otevřený nejen křesťanům jiných tradicí, ale
             i&nbsp;všem hledajícím a&nbsp;zájemcům o&nbsp;duchovní život
-            a&nbsp;činnost, které studentský klub organizuje.
+            a&nbsp;činnost, které studentský klub or�anizuje.
           </ContainerParagraph>
           <ContainerParagraph>Těšíme se na vás!</ContainerParagraph>
           <ContainerH2>Sledujte na nás na:</ContainerH2>

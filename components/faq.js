@@ -4,6 +4,7 @@ import Link from "next/link";
 import ContainerH3 from "./layouts/container-h3";
 import ContainerOl from "./layouts/container-ol";
 import ContainerLi from "./layouts/container-li";
+import GSvg from "./images/g_svg";
 
 export default function FAQ() {
   return (
@@ -30,14 +31,14 @@ export default function FAQ() {
       </FaqBox>
       <FaqBox question={`Kolik Diecézko stojí?`} icon={`money`}>
         Doporučený příspěvek je <strong>200,-Kč v hotovosti</strong>. Je možné ho
-        zaplatit v hotovosti na recepci ve Filharmonii při dopoledním programu.
+        zaplatit v hotovosti na recepci ve Filharmonii při dopoledním pro�ramu.
       </FaqBox>
       <FaqBox question={`Desatero pravidel Diecézka`} icon={`notes`}>
         <ContainerOl>
           <ContainerLi className={`my-4`}>
-            <strong>Dodržuj pokyny organizátorů</strong>
+            <strong>Dodržuj pokyny or�anizátorů</strong>
             <br />
-            Respektuj pravidla a&nbsp;program setkání. Nevstupuj do prostor, do
+            Respektuj pravidla a&nbsp;pro�ram setkání. Nevstupuj do prostor, do
             kterých není povolen vstup.
           </ContainerLi>
           <ContainerLi className={`my-4`}>
@@ -45,7 +46,7 @@ export default function FAQ() {
             <br />
             Ber ohled na ostatní účastníky a&nbsp;okolní prostředí. Udržuj 
             pořádek. Buď trpělivý/á a&nbsp;pozorný/á. Vnímej snahu přednášejících
-            předat ti to nejlepší. 
+            předat ti to nejlepší.
           </ContainerLi>
           <ContainerLi className={`my-4`}>
             <strong>Dbej na své zdraví</strong>
@@ -63,7 +64,7 @@ export default function FAQ() {
               V&nbsp;případě problému si neváhej říct o&nbsp;pomoc
             </strong>
             <br />
-            Organizátor, zdravotník či odpovědná osoba jsou připraveni pomoci.
+            Or�anizátor, zdravotník či odpovědná osoba jsou připraveni pomoci.
             Neváhej je oslovit. V&nbsp;případě neakutních potíží volej
             zdravotníka na telefonním čísle uvedeném na webu{" "}
             <Link
@@ -143,27 +144,27 @@ export default function FAQ() {
           </Link>
         </strong>
         &nbsp;a&nbsp;budeme s&nbsp;Tebou počítat. Na Diecézko se přihlas do
-        22.&nbsp;3.&nbsp;2026, abychom Ti stihli zajistit bagetu a&nbsp;pitíčko
+        22.&nbsp;3.&nbsp;2026, abychom Ti stihli zajistit ba�etu a&nbsp;pitíčko
         k&nbsp;obědu. <br />
         {/* <strong>Nestihl/a ses přihlásit v daném termínu?</strong> Nevadí,
-        i&nbsp;tak s&nbsp;tebou <strong>počítáme</strong>. Objednali jsme bagety
+        i&nbsp;tak s&nbsp;tebou <strong>počítáme</strong>. Objednali jsme ba�ety
         navíc. Prosíme, i&nbsp;nadále vyplň přihlášku, ať víme, že dorazíš.
         Děkujeme 😊{" "} */}
       </FaqBox>
-      <FaqBox question={`Jak se přihlásit na odpolední program?`} icon={`old`}>
+      <FaqBox question={`Jak se přihlásit na odpolední pro�ram?`} icon={`old`}>
         <strong>
           Při východu z{" "}
           <Link href={`/mapa?x=50.2138117&y=15.8291964`} className="underline">
             Filharmonie
           </Link>
         </strong>{" "}
-        si kromě bagety a&nbsp;pitíčka budeš moci vybrat odpolední program.
+        si kromě ba�ety a&nbsp;pitíčka budeš moci vybrat odpolední pro�ram.
         Ideálně si téma promysli dopředu, ať se nemusíš rozmýšlet na poslední
-        chvíli. Na místo programu se půjde společně. Neboj, nezabloudíš. 😉
+        chvíli. Na místo pro�ramu se půjde společně. Neboj, nezabloudíš. 😉
       </FaqBox>
       <FaqBox question={`Jak bude zajištěno stravování?`} icon={`chef`}>
         Doporučujeme si s&nbsp;sebou přivézt svačinku. Pro všechny, kteří se
-        včas přihlásili, <strong>bude k&nbsp;obědu bageta</strong>. Pokud máte
+        včas přihlásili, <strong>bude k&nbsp;obědu ba�eta</strong>. Pokud máte
         dietu, napište nám do{" "}
         <Link
           href="https://prihlaska.diecezko.cz/"
@@ -176,7 +177,7 @@ export default function FAQ() {
         .
         {/* Pokud by vás odpoledne přepadla mlsná, je možné zajít i&nbsp;do naší{" "}
         <Link href={`/mapa?x=50.2062919&y=15.8337133`} className="underline">
-          kavárny
+        kavárny
         </Link>
         . */}
       </FaqBox>
@@ -185,7 +186,7 @@ export default function FAQ() {
         Některé vikariáty pořádají menší setkání (tzv. vikariátko) den před
         Diecézkem a&nbsp;poté společně vyrážejí do Hradce Králové. Tomuto
         setkání říkáme PředDiecézko. Chceš zjistit, zda něco podobného
-        organizuje i&nbsp;tvůj vikariát? Pro více informací se podívej na{" "}
+        or�anizuje i&nbsp;tvůj vikariát? Pro více informací se podívej na{" "}
         <Link
           href={`/preddiecezka`}
           target="_Self"
@@ -197,7 +198,7 @@ export default function FAQ() {
       </FaqBox>
       
       <FaqBox question={`Je organizována společná doprava?`} icon={`train`}>
-        Některé vikariáty společnou dopravu organizují. Pro jasný přehled jsme
+        Některé vikariáty společnou dopravu or�anizují. Pro jasný přehled jsme
         pro Vás připravili{" "}
         <Link
           href={`/spolecna-doprava`}
@@ -245,16 +246,23 @@ export default function FAQ() {
         Zastávka D1 – 7<br />
         Zastávka D2 – 11, 13
       </FaqBox>
+      <FaqBox question={"Kam zmizelo písmeno G?"} icon={`search`}>
+        <span className="font-bold">{GSvg()} mizí po celém Hradci, svědci viděli lva s písmenem!</span><br />
+        V Hradci Králové začalo mizet písmeno „{GSvg()}“! Svědci tvrdí, že zahlédli Hradeckého lva,
+        jak běží ulicemi ... <Link href={`/kam-zmizelo-pismeno`} target="_Self" className="underline font-semibold">
+          číst dál
+        </Link>.
+      </FaqBox>
       {/* 
       <FaqBox question={`Kam si odskočit na záchod?`} icon={`toilet`}>
-        Nezoufej, mrkni{" "}
-        <Link
-          href="https://deniksracu.cz/"
-          target="_blank"
-          rel="external"
-          className="underline font-semibold"
-        >
-          sem
+      Nezoufej, mrkni{" "}
+      <Link
+      href="https://deniksracu.cz/"
+      target="_blank"
+      rel="external"
+      className="underline font-semibold"
+      >
+      sem
         </Link>{" "}
         a&nbsp;najdi si nejbližší trůn, který bude vyhovovat tvým požadavkům.
       </FaqBox>

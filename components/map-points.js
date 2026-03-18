@@ -18,7 +18,7 @@ export default function MapPoints({ coords }) {
           : p.name === "Katedrála Svatého Ducha" ||
             p.name === "Kostel Nanebevzetí Panny Marie"
           ? church
-          : p.name === "BiGy (Biskupské gymnázium)"
+          : p.name === "Bi�y (Biskupské �ymnázium)"
           ? school
           : p.name === "Nové Adalbertinum" || p.name === "Biskupská rezidence"
           ? tunel
@@ -187,10 +187,10 @@ const places = [
       x: 50.2062919,
       y: 15.8337133,
     },
-    name: "BiGy (Biskupské gymnázium)",
+    name: "Bi�y (Biskupské �ymnázium)",
     content: `
     <li>12:30 přednášky, workshopy</li>
-    <li>14:10 začátek programu po vikariátech</li>
+    <li>14:10 začátek pro�ramu po vikariátech</li>
     `,
     // <li>13:30 nealkoholický bar</li>
     // <li>14:10 modlitba za město</li>
@@ -202,8 +202,8 @@ const places = [
     },
     name: "Filharmonie Hradec Králové",
     content: `
-    <li>9:00 registrace</li>
-    <li>9:30 dopolední program</li>
+    <li>9:00 re�istrace</li>
+    <li>9:30 dopolední pro�ram</li>
     <li>11:30 obědová pauza</li>
     `,
   },

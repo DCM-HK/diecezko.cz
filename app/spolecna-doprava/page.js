@@ -16,7 +16,6 @@ import {
 import FaqLayout from "../../components/layouts/faq-layout";
 import FaqBox from "../../components/layouts/faq-box";
 import ContainerParagraph from "../../components/layouts/container-paragraph";
-// import ContainerImage from "../../components/layouts/container-image";
 
 export default function GroupTransport() {
   return (
@@ -47,7 +46,7 @@ export default function GroupTransport() {
               />
             </FaqBox>
             <FaqBox question={`Chrudim a Litomyšl`} icon={``}>
-              Vikariáty Chrudim a Litomyšl organizují společnou dopravu autobusem. Přihlášení
+              Vikariáty Chrudim a Litomyšl or�anizují společnou dopravu autobusem. Přihlášení
               a&nbsp;další informace o&nbsp;společné dopravě jsou k&nbsp;dispozici na&nbsp;
               <Link
                 className="underline"
@@ -131,7 +130,7 @@ export default function GroupTransport() {
               <ContainerParagraph>
                 Z našeho trutnovského vikariátu na Diecézko pojedeme vlakem z Trutnova v 7:43,
                 ze Rtyně v 8:03 (je to stejný vlak) a ze Dvora Králové v 8:02. Kontaktní osoba:
-                Prokop Bartoň tel: +420 721 981 837, ig:&nbsp;
+                Prokop Bartoň tel: +420 721 981 837, 
                 <Link href="https://www.instagram.com/_proky._.barton_/" target="_blank" rel="external noopener nofollow" className="underline">
                   @_proky._.barton_
                 </Link>
@@ -146,7 +145,7 @@ export default function GroupTransport() {
             <FaqBox question={`Ústí nad Orlicí`} icon={``}>
               <ContainerParagraph>
                 Vikariát Ústí nad Orlicí nepořádá společnou dopravu. Společný sraz je pro zájemce
-                v pátek 27. 3. 2026 v 18.00 na Biskupském gymnáziu v Hradci Králové. Pro více info sleduj&nbsp;
+                v pátek 27. 3. 2026 v 18.00 na Biskupském �ymnáziu v Hradci Králové. Pro více info sleduj&nbsp;
                 <Link
                   href="https://www.instagram.com/vikariat_uo/"
                   target="_blank"
@@ -159,7 +158,7 @@ export default function GroupTransport() {
                   href="mailto:vikariatustinadorlici@gmail.com"
                   className="underline"
                 >
-                  vikariatustinadorlici@gmail.com
+                  vikariatustinadorlici@�mail.com
                 </Link>
               </ContainerParagraph>
               <ContainerImageBase

@@ -17,7 +17,7 @@ export default async function Pehuma() {
       <Header />
       <PageMain>
         <Container>
-          <ContainerTitle>Jak funguje pastorace mládeže</ContainerTitle>
+          <ContainerTitle>Jak fun�uje pastorace mládeže</ContainerTitle>
           <ContainerDescription>
             Pastorace mládeže má několik úrovní. Díky tomu se mohou mladí setkávat nejen ve své
             farnosti, ale také s dalšími mladými z širšího okolí. Pastorace mládeže přitom začíná
@@ -37,7 +37,7 @@ export default async function Pehuma() {
             Vikariát
           </ContainerH2>
           <ContainerParagraph>
-            Více farností v jednom regionu tvoří vikariát. Na této úrovni se mohou konat společné
+            Více farností v jednom re�ionu tvoří vikariát. Na této úrovni se mohou konat společné
             akce pro mladé z více farností, aby se mohli poznávat a vytvářet širší společenství.
             Pastoraci mládeže zde pomáhají koordinovat&nbsp;
             <Link href="/vikariaty" target="_self" className="underline">
@@ -48,7 +48,7 @@ export default async function Pehuma() {
             Diecéze
           </ContainerH2>
           <ContainerParagraph>
-            Na úrovni celé diecéze se organizují větší setkání, například Diecézní setkání mládeže
+            Na úrovni celé diecéze se or�anizují větší setkání, například Diecézní setkání mládeže
             (Diecézko). Pastoraci mládeže zde koordinuje&nbsp;
             <Link href="/dcm-hradec-kralove" target="_self" className="underline">
               Diecézní centrum pro mládež (DCM)
@@ -58,9 +58,9 @@ export default async function Pehuma() {
             <Link href="/dczm-vesmir" target="_self" className="underline">
               Diecézní centra života mládeže (DCŽM)
             </Link>
-            , která vytvářejí prostor pro setkávání mladých, duchovní a víkendové programy.
+            , která vytvářejí prostor pro setkávání mladých, duchovní a víkendové pro�ramy.
             V prostředí studentských pak působí Vysokoškolská katolická hnutí (VKH), která vytváří
-            společenství pro studenty vysokých škol – v naší diecézi funguje&nbsp;
+            společenství pro studenty vysokých škol – v naší diecézi fun�uje&nbsp;
             <Link href="/kak-salas" target="_self" className="underline">
               KAK Salaš v Hradci Králové
             </Link>.
@@ -74,7 +74,7 @@ export default async function Pehuma() {
               Sekce pro mládež České biskupské konference
             </Link>
             . Její práci zajišťuje sekretariát Sekce pro mládež, který
-            koordinuje spolupráci mezi diecézemi a podílí se na organizaci celostátních akcí,
+            koordinuje spolupráci mezi diecézemi a podílí se na or�anizaci celostátních akcí,
             například&nbsp;
             <Link href="https://celostatnisetkanimladeze.cz/" target="_blank" rel="external noopener nofollow" className="underline">
               Celostátního setkání mládeže

@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:lAMoIjchFXq_m7jav7oYR
-SUMMARY:Příjezd a registrace
+SUMMARY:Příjezd a re�istrace
 DTSTAMP:20240221T134000Z
 DTSTART:20240323T080000Z
 DESCRIPTION:Při příjezdu na setkání prosím navštivte registraci\, kterou na

@@ -15,13 +15,13 @@ export default async function ModlitbaZaMesto() {
           <ContainerDescription>
             V letošním Jubilejním roce 2025 slaví naše diecézní město Hradec
             Králové 800 let od své první písemné zmínky. Proto jsme se rozhodli
-            do programu zapojit putování na hradecká místa a spojit jej s
+            do pro�ramu zapojit putování na hradecká místa a spojit jej s
             modlitbou za město, do kterého přineseme světlo naděje z našich
             vikariátů.
           </ContainerDescription>
 
           <ContainerParagraph>
-            Nejdříve se shromáždíme před Biskupským gymnáziem, odkud budeme po
+            Nejdříve se shromáždíme před Biskupským �ymnáziem, odkud budeme po
             menších vikariátních skupinkách putovat na vybraná místa v těsném
             okolí. Společně strávený čas ve vikariátech můžeme využít tedy nejen
             k modlitbě, ale i k seznámení se s někým novým či k setkání se

@@ -1,10 +1,10 @@
 [
    {
-      "name": "Příjezd a registrace",
+      "name": "Příjezd a re�istrace",
       "id": 1,
       "time": "9:00",
       "duration": 30,
-      "description": "Při příjezdu na setkání prosíme navštivte registraci, kterou najdete ve vstupu do Filharmonie. Dostanete zde náramek v&nbsp;barvě svého <a href=\"/vikariaty\" target=\"_self\" class=\"underline\">vikariátu</a>. Už tušíte, jaká to bude?",
+      "description": "Při příjezdu na setkání prosíme navštivte re�istraci, kterou najdete ve vstupu do Filharmonie. Dostanete zde náramek v&nbsp;barvě svého <a href=\"/vikariaty\" target=\"_self\" class=\"underline\">vikariátu</a>. Už tušíte, jaká to bude?",
       "icons": [
          "registration"
       ],
@@ -18,11 +18,11 @@
       }
    },
    {
-      "name": "Program ve Filharmonii",
+      "name": "Pro�ram ve Filharmonii",
       "id": 2,
       "time": "9:30",
       "duration": 150,
-      "description": "Dopolední program prožijeme společně v&nbsp;budově Filharmonie. Můžete se těšit na režijní scénky, svědectví, hudební doprovod v&nbsp;podání VeKy a&nbsp;mnoho dalšího.",
+      "description": "Dopolední pro�ram prožijeme společně v&nbsp;budově Filharmonie. Můžete se těšit na režijní scénky, svědectví, hudební doprovod v&nbsp;podání VeKy a&nbsp;mnoho dalšího.",
       "icons": [
          "theater",
          "music",
@@ -43,7 +43,7 @@
       "time": "11:30",
       "id": 3,
       "duration": 60,
-      "description": "Při odchodu z&nbsp;dopoledního programu si kromě výběru workshopu nebo přednášky nezapomeňte vyzvednout i&nbsp;bagetu s&nbsp;pitíčkem. Bagety pro nás připravilo BISTRO u&nbsp;dvou přátel. Dobrou chuť!",
+      "description": "Při odchodu z&nbsp;dopoledního pro�ramu si kromě výběru workshopu nebo přednášky nezapomeňte vyzvednout i&nbsp;ba�etu s&nbsp;pitíčkem. Ba�ety pro nás připravilo BISTRO u&nbsp;dvou přátel. Dobrou chuť!",
       "link": "/bistro-u-dvou-pratel",
       "icons": [
          "food"
@@ -100,16 +100,16 @@
       }
    },
    {
-      "name": "Program po vikariátech",
+      "name": "Pro�ram po vikariátech",
       "time": "14:10",
       "id": 6,
       "duration": 45,
-      "description": "Po společném srazu se rozjede program po vikariátech v režii <a href=\"/vikariaty\" target=\"_self\" class=\"underline\">vikariátních zástupců</a>.",
+      "description": "Po společném srazu se rozjede pro�ram po vikariátech v režii <a href=\"/vikariaty\" target=\"_self\" class=\"underline\">vikariátních zástupců</a>.",
       "icons": [
          "users"
       ],
       "place": {
-         "name": "Nádvoří Biskupského gymnázia",
+         "name": "Nádvoří Biskupského �ymnázia",
          "coords": {
             "x": 50.2062919,
             "y": 15.8337133

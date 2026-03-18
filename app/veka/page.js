@@ -44,11 +44,11 @@ export default async function VeKa() {
           <ContainerParagraph>
             VeKa vznikla v roce 2000 a navazuje na tradici diecézních kapel. Od
             té doby kapelou prošly přes dvě stovky členů tvořících několik
-            generací, které dohromady vydaly 7 alb. To nejnovější
+            �enerací, které dohromady vydaly 7 alb. To nejnovější
             se&nbsp;jmenuje <strong>Buď vůle Tvá.</strong> Natočili jsme
             tři videoklipy, doprovodili pět Diecézních setkání mládeže a nespočet
             mší v různých farnostech. Letos se Vám představíme ve&nbsp;zbrusu
-            nové sestavě jako 6. generace VeKy.
+            nové sestavě jako 6. �enerace VeKy.
           </ContainerParagraph>
           <ContainerParagraph>
             Za náš největší úspěch považujeme hraní na loňském{" "}

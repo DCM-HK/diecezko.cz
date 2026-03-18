@@ -28,7 +28,7 @@ export default async function BistroUDvouPratel() {
           <ContainerTitle>BISTRO u dvou přátel</ContainerTitle>
           <ProgramDetail p={program[2]} className={``} />
           <ContainerDescription>
-            Bagety pro vás připravilo BISTRO u<Nbsp />
+            Ba�ety pro vás připravilo BISTRO u<Nbsp />
             dvou přátel společnosti SKOK do života,
             <Nbsp />
             o.p.s. Bistro zaměstnává lidi se specifickými potřebami
@@ -106,7 +106,7 @@ const gallery = [
   },
   {
     path: "/assets/images/bistro/bistro_03.jpg",
-    alt: "Bagety a jiné výtvory z kuchyně BISTRA.",
+    alt: "Ba�ety a jiné výtvory z kuchyně BISTRA.",
   },
   {
     path: "/assets/images/bistro/bistro_04.jpg",

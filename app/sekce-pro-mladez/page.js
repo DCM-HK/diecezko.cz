@@ -31,7 +31,7 @@ export default async function Pehuma() {
             jejich zapojení do života církve. 
           </ContainerDescription>
           <ContainerParagraph>
-            Sekci tvoří delegát biskupů pro mládež, ředitel se svým týmem a zástupci jednotlivých
+            Sekci tvoří dele�át biskupů pro mládež, ředitel se svým týmem a zástupci jednotlivých
             diecézí – především pracovníci diecézních center pro mládež (
             <Link href="/dcm-hradec-kralove" target="_self" className="underline">
               DCM
@@ -41,14 +41,14 @@ export default async function Pehuma() {
               DCŽM
             </Link>
               ). Do služby jsou zapojeni také další spolupracovníci a mladí lidé z jednotlivých
-              diecézí. Sekce pro mládež koordinuje spolupráci mezi diecézemi, organizuje celostátní
+              diecézí. Sekce pro mládež koordinuje spolupráci mezi diecézemi, or�anizuje celostátní
               akce pro mladé, například Celostátní setkání mládeže, a podílí se na přípravě
               Světových dnů mládeže. Jejím cílem je podporovat růst mladých lidí ve víře, pomáhat
               jim nacházet své místo v církvi a vytvářet prostor pro jejich zapojení do života
               církve.
           </ContainerParagraph>
           <ContainerParagraph>
-            Sekce pro mládež organizuje a podporuje celostátní akce pro mladé, například&nbsp;
+            Sekce pro mládež or�anizuje a podporuje celostátní akce pro mladé, například&nbsp;
             <Link href="https://celostatnisetkanimladeze.cz/" target="_blank" rel="external noopener nofollow" className="underline">
               Celostátní setkání mládeže
             </Link>
@@ -87,7 +87,7 @@ export default async function Pehuma() {
 
 export const members = [
   {
-    name: "P. Mgr. Roman Kubín",
+    name: "P. M�r. Roman Kubín",
     role: "ředitel sekce",
     image: "/assets/images/sekce/kubin.webp"
   },
