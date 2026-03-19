@@ -9,13 +9,6 @@ import GSvg from "./images/g_svg";
 export default function FAQ() {
   return (
     <FaqLayout>
-      <FaqBox question={`Co je diecézko?`} icon={`users`}>
-        Diecézní setkání mládeže je oslavou Světového dne mládeže na diecézní úrovni.
-        Tradici Světových dnů mládeže založil papež sv. Jan Pavel II.
-        v&nbsp;roce 1985 a&nbsp;sám jako římský biskup šel příkladem,
-        když se&nbsp;pravidelně setkával s mladými lidmi. Zároveň povzbudil biskupy
-        po&nbsp;celém světě, aby podobná setkání pořádali také ve svých diecézích.
-      </FaqBox>
       <FaqBox question={`Kde seženu zdravotní pomoc?`} icon={`medical`}>
         V případě jakéhokoliv zdravotního problému se neváhej obrátit na naši{" "}
         <strong>zdravotnickou službu</strong>, kterou poznáš podle oblečení
@@ -28,6 +21,20 @@ export default function FAQ() {
           155
         </Link>
         .
+      </FaqBox>
+      <FaqBox question={`Co je diecézko?`} icon={`users`}>
+        Diecézní setkání mládeže je oslavou Světového dne mládeže na diecézní úrovni.
+        Tradici Světových dnů mládeže založil papež sv. Jan Pavel II.
+        v&nbsp;roce 1985 a&nbsp;sám jako římský biskup šel příkladem,
+        když se&nbsp;pravidelně setkával s mladými lidmi. Zároveň povzbudil biskupy
+        po&nbsp;celém světě, aby podobná setkání pořádali také ve svých diecézích.
+      </FaqBox>
+      <FaqBox question={"Kam zmizelo písmeno G?"} icon={`search`}>
+        <span className="font-bold">{GSvg()} mizí po celém Hradci, svědci viděli lva s písmenem!</span><br />
+        V Hradci Králové začalo mizet písmeno „{GSvg()}“! Svědci tvrdí, že zahlédli Hradeckého lva,
+        jak běží ulicemi ... <Link href={`/kam-zmizelo-pismeno`} target="_Self" className="underline font-semibold">
+          číst dál
+        </Link>.
       </FaqBox>
       <FaqBox question={`Kolik Diecézko stojí?`} icon={`money`}>
         Doporučený příspěvek je <strong>200,-Kč v hotovosti</strong>. Je možné ho
@@ -197,7 +204,7 @@ export default function FAQ() {
         .
       </FaqBox>
       
-      <FaqBox question={`Je organizována společná doprava?`} icon={`train`}>
+      <FaqBox question={`Je or�anizována společná doprava?`} icon={`train`}>
         Některé vikariáty společnou dopravu or�anizují. Pro jasný přehled jsme
         pro Vás připravili{" "}
         <Link
@@ -245,13 +252,6 @@ export default function FAQ() {
         <br />
         Zastávka D1 – 7<br />
         Zastávka D2 – 11, 13
-      </FaqBox>
-      <FaqBox question={"Kam zmizelo písmeno G?"} icon={`search`}>
-        <span className="font-bold">{GSvg()} mizí po celém Hradci, svědci viděli lva s písmenem!</span><br />
-        V Hradci Králové začalo mizet písmeno „{GSvg()}“! Svědci tvrdí, že zahlédli Hradeckého lva,
-        jak běží ulicemi ... <Link href={`/kam-zmizelo-pismeno`} target="_Self" className="underline font-semibold">
-          číst dál
-        </Link>.
       </FaqBox>
       {/* 
       <FaqBox question={`Kam si odskočit na záchod?`} icon={`toilet`}>
