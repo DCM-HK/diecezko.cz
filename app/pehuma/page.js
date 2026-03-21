@@ -43,6 +43,7 @@ export default async function Pehuma() {
             a&nbsp;někdo jiný zase hry nebo jinou&nbsp;zábavu. Máme rádi pohodu, smích a&nbsp;čas 
             strávený spolu. Jsme moc rádi, že vám můžeme zazpívat, a těšíme se, že si to společně užijeme.
           </ContainerParagraph>
+          <SwappingGallery images={gallery} />
         </Container>
       </PageMain>
       <Footer />
@@ -52,7 +53,23 @@ export default async function Pehuma() {
 
 const gallery = [
   {
-    path: "/assets/images/spolecenstvi/veka_na_louce.jpeg",
-    alt: "Vesmírná kapela na louce"
+    path: "/assets/images/spolecenstvi/pehuma/oficiální fotka Pehumy.jpg",
+    alt: "Oficiální fotka kapely scholy PEHUMA"
   },
+  {
+    path: "/assets/images/spolecenstvi/pehuma/fotka hudební.jpg",
+    alt: "Schola PEHUMA při zkoušce"
+  },
+  {
+    path: "/assets/images/spolecenstvi/pehuma/šéfky s vlajkou.jpg",
+    alt: "Šéfky scholy PEHUMA s vlajkou"
+  },
+  {
+    path: "/assets/images/spolecenstvi/pehuma/fotka pracovní.jpg",
+    alt: "Schola PEHUMA při práci na sněhu"
+  },
+  {
+    path: "/assets/images/spolecenstvi/pehuma/Fotka z Velehradu.jpg",
+    alt: "Schola PEHUMA při cestě na Velehrad"
+  }
 ];
