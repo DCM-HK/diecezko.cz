@@ -95,6 +95,19 @@ export default function Partneri() {
                 alt="Logo Biskupského gymnázia Hradec Králové"
               />
             </Link>
+            <Link
+              target="_blank"
+              rel="external"
+              href={`https://www.prodejpalem.cz/`}
+              className="w-full flex items-center justify-center"
+              title="Prodej palem"
+            >
+              <img
+                src="/assets/images/sponsors/palmy.png"
+                className="w-[25vw] max-w-[100px] rounded-full cursor-pointer saturate-0 hover:saturate-100 duration-300 hover:scale-100 scale-95"
+                alt="Logo Prodejny palem"
+              />
+            </Link>
           </div>
         </Container>
       </PageMain>
