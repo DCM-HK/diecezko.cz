@@ -120,7 +120,7 @@ export const ecko = [
     name: "Anička Koubková",
     description:
       "Anička společně s&nbsp;Terezkou pečují o&nbsp;pohodlí našich žaludků po celý den.",
-    jpgPath: "/assets/images/jadro/koubkova.jpg",
+    pngPath: "/assets/images/jadro/koubkova.png",
     webpPath: "/assets/images/jadro/koubkova.webp",
     altText: "Profilová fotka Aničky Koubkové",
     className: "",
@@ -156,8 +156,8 @@ export const ecko = [
     name: "Martin Rychtár",
     description:
       "Martin se svým týmem připravuje zázemí na Bi�y pro celý přípravný tým a odpolední přednášky",
-    jpgPath: "/assets/images/vikariaty/rychtar.jpg",
-    webpPath: "/assets/images/vikariaty/rychtar.webp",
+    jpgPath: "/assets/images/jadro/rychtar.png",
+    webpPath: "/assets/images/jadro/rychtar.webp",
     altText: "Profilová fotka Martina Rychtára",
     className: "",
   },
@@ -174,7 +174,7 @@ export const ecko = [
     name: "Vojta Vlach",
     description:
       "Vojta vytváří web diecézko.cz a&nbsp;pomáhá s&nbsp;technickým zabezpečením celé akce.",
-    jpgPath: "/assets/images/jadro/vlach.jpg",
+    pngPath: "/assets/images/jadro/vlach.png",
     webpPath: "/assets/images/jadro/vlach.webp",
     altText: "Profilová fotka Vojty Vlacha",
     className: "",
