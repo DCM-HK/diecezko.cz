@@ -254,6 +254,16 @@ const workshops = [
     },
   },
   {
+    title: "Stvořená v rytmu - Objev moudrost svého těla a dar ženství",
+    type: "person",
+    about: `Jsem lektorka (pro�ramy pro mamky a dcery, dospívající dívky, vztahová výchova ve školách) a křesťanská koučka, pomáhám dívkám a ženám lépe porozumět svému tělu, cyklu i plodnosti. Vytvářím bezpečný a přátelský prostor, kde se můžete ptát, sdílet a objevovat, jak my ženy fun�ujeme – otevřeně, bez studu a tlaku. Ve své práci propojuji praktické informace s jemným přístupem a vírou, že každá z nás je stvořená jedinečně a v tom nejlepším rytmu.`,
+    descritpion: `Stvořená v rytmu je workshop pro dívky, které už nechtějí být proti sobě, ale chtějí začít žít v souladu se svým tělem i srdcem. Naučíš se rozumět svému cyklu, vnímat své proměny jako dar (ne překážku) a opřít se o rytmus, který ti přináší klid, jistotu i sebevědomí. Pokud toužíš po větší lehkosti, pochopení sama sebe a hlubším ukotvení ve své ženskosti, tady začíná tvoje cesta.`,
+    speaker: {
+      name: "Markéta Juzová",
+      jpgPath: "/assets/images/speakers/juzova.jpg",
+    },
+  },
+  {
     title: "Jak jsme se ocitli v semináři…",
     type: "person",
     about: `Kluci z různých koutů – od Krkonoš, z Polabí a od Svatého Hostýna –, leč toho času bytem v Thákurově 3 na Praze 6. Disponujeme věkovým průměrem zhruba 34 let a velmi různými zkušenostmi, ale jedno máme společné: jsme bohoslovci za královéhradeckou diecézi.`,
