@@ -17,21 +17,6 @@ export default async function Vikariaty() {
       <PageMain>
         <Container>
           <ContainerTitle>Vikariátní zástupci a kaplani pro mládež</ContainerTitle>
-          <ContainerDescription>
-            Vikariátní zástupce
-          </ContainerDescription>
-          <ContainerParagraph>
-            Vikariátní zástupce pro mládež pomáhá propojovat práci s mládeží mezi jednotlivými farnostmi ve vikariátu a diecézí. Spolupracuje především s kaplanem pro mládež a podporuje or�anizaci společných aktivit pro mladé.
-            Jeho služba zahrnuje:
-            <ul className="list-disc list-inside mt-2">
-              <li>spolupráci s kaplanem pro mládež při or�anizování aktivit pro mladé ve vikariátu (např. vikariátní setkání mládeže nebo večery mladých)</li>
-              <li>udržování kontaktu s mládeží v jednotlivých farnostech a spolupráci se zástupci farností</li>
-              <li>předávání informací pro mládež (např. z Diecézního centra pro mládež nebo z dění ve vikariátu)</li>
-              <li>zapojení do přípravy Diecézního setkání mládeže a dalších diecézních akcí</li>
-              <li>modlitbu za mládež</li>
-              <li>osobní duchovní růst, aby mohl být příkladem pro ostatní</li>
-            </ul>
-          </ContainerParagraph>
           <ContainerH2>Mapa vikariátů</ContainerH2>
           <ContainerParagraph>
             Vikariát je územní jednotka v&nbsp;diecézi seskupující jednotlivé 
@@ -77,6 +62,19 @@ export default async function Vikariaty() {
               />
             );
           })}
+          <ContainerH2>Vikariátní zástupce</ContainerH2>
+          <ContainerParagraph>
+            Vikariátní zástupce pro mládež pomáhá propojovat práci s mládeží mezi jednotlivými farnostmi ve vikariátu a diecézí. Spolupracuje především s kaplanem pro mládež a podporuje or�anizaci společných aktivit pro mladé.
+            Jeho služba zahrnuje:
+            <ul className="list-disc list-inside mt-2">
+              <li>spolupráci s kaplanem pro mládež při or�anizování aktivit pro mladé ve vikariátu (např. vikariátní setkání mládeže nebo večery mladých)</li>
+              <li>udržování kontaktu s mládeží v jednotlivých farnostech a spolupráci se zástupci farností</li>
+              <li>předávání informací pro mládež (např. z Diecézního centra pro mládež nebo z dění ve vikariátu)</li>
+              <li>zapojení do přípravy Diecézního setkání mládeže a dalších diecézních akcí</li>
+              <li>modlitbu za mládež</li>
+              <li>osobní duchovní růst, aby mohl být příkladem pro ostatní</li>
+            </ul>
+          </ContainerParagraph>
           <SwappingGallery images={gallery} />
         </Container>
       </PageMain>
