@@ -32,6 +32,10 @@ export default async function Pehuma() {
             Základem pastorace mládeže jsou malá společenství ve farnostech – „spolča“. Právě tady
             se mladí pravidelně setkávají, modlí se, sdílejí svůj život a rostou ve víře.
             Společenství obvykle provází vedoucí nebo animátoři, kteří mladé doprovázejí.
+            Mapu aktivních společenství najdeš{" "}
+            <Link href="/spolca" target="_self" className="underline">
+              tady
+            </Link>.
           </ContainerParagraph>
           <ContainerH2>
             Vikariát

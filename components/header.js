@@ -16,6 +16,7 @@ import {
   IconX,
 } from "@tabler/icons";
 import Link from "next/link";
+import Image from "next/image";
 import { useState } from "react";
 import IconCustomSalas from "./images/salas";
 import IconCustomVesmir from "./images/vesmir";
@@ -235,6 +236,23 @@ export default function Header() {
                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                   <IconPuzzle className="inline h-7 w-7 my-1 mr-2" />
                   Vikariátní zástupci a kaplani
+                </li>
+              </Link>
+              <Link
+                href="/spolca"
+                onClick={unlockScrolling}
+                target="_self"
+                className="w-full mt-4 text-xl"
+              >
+                <li className="flex flex-row items-center">
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                  <Image
+                    src="/assets/images/icon_user_group.svg"
+                    alt="Spolča"
+                    width={28}
+                    height={28}
+                    className="inline h-7 w-7 my-1 mr-2" />
+                  Spolča
                 </li>
               </Link>
             </ul>
