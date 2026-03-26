@@ -8,6 +8,7 @@ import ProgramDetail from "../../components/layouts/program-detail";
 import program from "../../components/switcher/program.json";
 import AvatarImage from "../../components/layouts/avatar-image";
 import Link from "next/link";
+import Image from "next/image";
 import {
   IconBrandFacebook,
   IconBrandInstagram,
@@ -29,8 +30,15 @@ export default async function PrednaskyWorhsopy() {
           <ProgramDetail p={program[4]} className={``} />
           <ContainerDescription>
             V první části odpoledne si můžete vybrat z&nbsp;bohaté nabídky
-            přednášek, několika workshopů nebo sportu. Další workshopy budou přibývat
-            v&nbsp;průběhu března.
+            přednášek, několika workshopů nebo sportu. Naprostá většina workshopů
+            bude probíhat v&nbsp;budově{" "}
+            <Link
+              href={`/mapa?x=${50.2062919}&y=${15.8337133}`}
+              target="_self"
+              className="underline"
+            >
+              Biskupského �ymnázia
+            </Link>
           </ContainerDescription>
           <div className="flex flex-row items-center justify-center flex-wrap">
             <Link href={`#prednaska-start`}>
@@ -82,7 +90,7 @@ export default async function PrednaskyWorhsopy() {
                       dangerouslySetInnerHTML={{ __html: w.title }}
                       className="text-xl font-semibold w-full"
                     />
-                    <span className="tracking-widest mt-1 font-light flex flex-row items-center justify-start">
+                    <span className="tracking-widest mt-1 font-semibold flex flex-row items-center justify-start">
                       <ParmIcon
                         iconName={w.type}
                         className={`inline`}
@@ -120,6 +128,12 @@ export default async function PrednaskyWorhsopy() {
                       </span>
                     )}
                     </span>
+                    {w.capacity !== undefined ? (
+                      <span className="font-semibold">
+                        <Image src={"/assets/images/icon_user_group.svg"} alt="Ikona skupiny lidí" width={18} height={18} className="inline mr-1" />
+                        Kapacita {w.capacity} míst
+                      </span>
+                    ) : null}
                     {w.about !== undefined ? (
                       <p
                         className="text-lg w-full mt-2 italic"
@@ -226,6 +240,8 @@ const workshops = [
       name: "Mons. Prokop Brož",
       jpgPath: "/assets/images/speakers/broz.jpg",
     },
+    capacity: 50,
+    place: "místnost 303",
   },
   {
     title:
@@ -241,6 +257,8 @@ const workshops = [
     social: {
       ig: "https://www.instagram.com/paterpepa/",
     },
+    capacity: 60,
+    place: "aula",
   },
   {
     title: "Dobrovolnictví, které dává&nbsp;víc, než&nbsp;bere",
@@ -252,6 +270,8 @@ const workshops = [
       name: "Majki Kašparová",
       jpgPath: "/assets/images/speakers/majki_koko.jpg",
     },
+    capacity: 20,
+    place: "místnost 115",
   },
   {
     title: "Stvořená v rytmu - Objev moudrost svého těla a dar ženství",
@@ -262,6 +282,8 @@ const workshops = [
       name: "Markéta Juzová",
       jpgPath: "/assets/images/speakers/juzova.jpg",
     },
+    capacity: 30,
+    place: "místnost 207",
   },
   {
     title: "Jak jsme se ocitli v semináři…",
@@ -272,6 +294,8 @@ const workshops = [
       name: "Ondra Mařík, Tomáš Chlápek, Petr Hák",
       jpgPath: "/assets/images/speakers/bohoslovci.jpg",
     },
+    capacity: 25,
+    place: "místnost 213",
   },
   {
     title: "Jak na hudbu při mši aneb od výběru písní po diri�ování",
@@ -283,6 +307,8 @@ const workshops = [
       name: "František Novák",
       jpgPath: "/assets/images/speakers/novak.jpg",
     },
+    capacity: 20,
+    place: "místnost 113 - hudebna",
   },
   {
     title: "Pubquiz",
@@ -293,6 +319,8 @@ const workshops = [
       name: "KAK Salaš",
       pngPath: "/assets/images/speakers/pub_quiz.png",
     },
+    capacity: 36,
+    place: "místnost 208",
   },
   {
     title: "Otčenáš jinak než slovy",
@@ -303,6 +331,8 @@ const workshops = [
       name: "Markéta Rumpíková",
       pngPath: "/assets/images/speakers/rumpikova.jpg",
     },
+    capacity: 20,
+    place: "místnost 206",
   },
   {
     title: "Knižní ilustrace a jak na ní?",
@@ -313,6 +343,8 @@ const workshops = [
       name: "Patricie Koubská",
       pngPath: "/assets/images/speakers/koubska.jpg",
     },
+    capacity: 20,
+    place: "místnost 216",
   },
   {
     title: "Sportovní workshop",
@@ -324,5 +356,7 @@ const workshops = [
       name: "Štěpán Jakubec",
       jpgPath: "/assets/images/speakers/jakubec.jpg",
     },
+    capacity: 20,
+    place: "místnost 107",
   },
 ];
