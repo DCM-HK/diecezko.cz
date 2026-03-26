@@ -28,7 +28,7 @@ export default function Playlist() {
               Otevřít playlist na mši
             </button>
           </Link>
-          <ContainerH2>Vstup: Blahoslavení milosrdní</ContainerH2>
+          <ContainerH2>Blahoslavení milosrdní</ContainerH2>
           <ContainerParagraph>
             1. K výšinám své oči pozvedám,
             <br />
