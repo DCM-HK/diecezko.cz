@@ -202,6 +202,52 @@ export default function Playlist() {
             <br />
           </ContainerParagraph>
           <ContainerH2>Na oltář</ContainerH2>
+          <ContainerParagraph>
+            1. Na oltář patří všechno, co mám. Smutky mé i mou radost ti dám.
+            <br />
+            Problémy, které nevyřeším sám,
+            <br />
+            všechno, Pane, před tvou tvář teď odevzdám.
+            <br />
+          </ContainerParagraph>
+          <ContainerParagraph>
+            2. Na oltář nesu bolest i hřích, starosti, když se utápím v nich,
+            <br />
+            skutky zlé, plné rozdaných ran,
+            <br />
+            všechno, Pane, před tvou tvář teď odevzdám.
+            <br />
+          </ContainerParagraph>
+          <ContainerParagraph>
+            3. Na oltář nesu radost a dík za chvíle, které naplnil smích.
+            <br />
+            Úsměvy, které rozdal jsem sám,
+            <br />
+            všechno, Pane, před tvou tvář teď odevzdám.
+            <br />
+          </ContainerParagraph>
+          <ContainerParagraph>
+            B:  Proměň,Pane, tyto dary, které spolu s chlebem, vínem odevzdám.
+            <br />
+            Bez Tebe bych byl pouhým stínem a hnal se vlastní cestou kdoví kam.
+            <br />
+            A tak jsem rád, že ti to málo, které mám, smím dát.
+            <br />
+          </ContainerParagraph>
+          <ContainerParagraph>
+            4. Na oltář dávám pár skromných snů, prosím, dej pokoj do dalších dnů,
+            <br />
+            nauč mě dávat jako Ty sám, pomoz, ať na cestě lásky vytrvám.
+            <br />
+          </ContainerParagraph>
+          <ContainerParagraph>
+            5. Na oltář patří všechno, co mám. Smutky mé i mou radost ti dám.
+            <br />
+            Problémy, které nevyřeším sám,
+            <br />
+            všechno, Pane, před tvou tvář teď odevzdám.
+            <br />
+          </ContainerParagraph>
           <ContainerH2>Dary (Z mnoha zrn)</ContainerH2>
           <ContainerParagraph>
             1. Z mnoha zrn se stal jeden chléb,
