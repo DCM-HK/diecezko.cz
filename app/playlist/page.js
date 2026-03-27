@@ -16,253 +16,520 @@ export default function Playlist() {
         <Container>
           <ContainerTitle>Playlist na mši svatou</ContainerTitle>
           <ContainerParagraph>
-            Texty písniček najdeš buďto ve zpěvníku pro scholy nebo níže.
+            Texty písniček najdeš buďto ve{" "}
+            <Link href={`https://zpevnik.proscholy.cz/`} target="_blank" className="underline">
+            zpěvníku pro scholy
+            </Link>{" "}
+            nebo níže.
           </ContainerParagraph>
+          {/*
           <Link
-            href={`/assets/playlist/2025_mse_updated.proscholy`}
+            href={`/assets/playlist/2026_mse_updated.proscholy`}
             target="_blank"
-            download="2025_mse.proscholy"
+            download="2026_mse.proscholy"
           >
             <button className="border border-[#3b3b3b] hover:bg-[#3b3b3b] rounded-full p-2 px-3 cursor-pointer text-base flex flex-row items-center justify-center mb-2 mr-2">
               <IconCustomProScholy className="w-8" />
               Otevřít playlist na mši
             </button>
           </Link>
-          <ContainerH2>Vstup: Hospodine, prosím nademnou se smiluj</ContainerH2>
+           */}
+          <ContainerH2>Blahoslavení milosrdní</ContainerH2>
           <ContainerParagraph>
-            1. Hospodine, prosím, nade mnou se smiluj,
+            1. K výšinám své oči pozvedám,
             <br />
-            zahlaď všechny moje viny a mé srdce bude čisté.
+            koho bych se bál?
             <br />
-            Svého Ducha zas mi daruj,
+            Pomocnou ruku dá mi sám
             <br />
-            ať je ve mně stále činný,
-            <br />
-            zas mé kroky budou jisté,
-            <br />
-            zas mé kroky budou jisté,
-            <br />
-            zas mé kroky budou jisté.
+            milostivý Král.
             <br />
           </ContainerParagraph>
           <ContainerParagraph>
-            R: Oblečte člověka nového,
+            2. Když umdléváme, staví nám stan,
             <br />
-            který podle vzoru Božího
+            léčí nás jeho hlas.
             <br />
-            je stvořený, spravedlivý a svatý.
+            Chladí nám rány krví svých ran,
+            <br />
+            pláštěm halí nás.
             <br />
           </ContainerParagraph>
           <ContainerParagraph>
-            C: Hospodine, prosím, nade mnou se smiluj,
+            R: Milosrdní jsoublahoslavení,
             <br />
-            zahlaď všechny moje viny a mé srdce bude čisté.
-            <br />A mé srdce bude čisté.
-          </ContainerParagraph>
-          <ContainerH2>Evan�elium: Nám, Pane, dal jsi slovo své</ContainerH2>
-          <ContainerParagraph>
-            R: Nám, Pane, dal jsi Slovo své,
+            protože oni dojdou milosrdenství.
             <br />
-            Ducha svého dej nám též. 
+            Milosrdní jsoublahoslavení,
             <br />
-            Ať Tebe vždycky přijmeme,
-            <br />
-            Ducha svého dej nám též.
-          </ContainerParagraph>
-          <ContainerParagraph>
-            1. Zůstaň, Pane, s námi všechny dny až na věky,
-            <br />
-            Ducha svého dej nám též. 
-            <br />
-            Ty jsi cesta, Ty jsi život pro nás, pro bratry,
-            <br />
-            Ducha svého dej nám též.
-          </ContainerParagraph>
-          <ContainerParagraph>
-            R: Nám, Pane, dal jsi Slovo své,
-            <br />
-            Ducha svého dej nám též. 
-            <br />
-            Ať Tebe vždycky přijmeme,
-            <br />
-            Ducha svého dej nám též.
-          </ContainerParagraph>
-          <ContainerParagraph>
-            2. Všechny moci světa, když nás, Pane, týrají,
-            <br />
-            Ducha svého dej nám též. 
-            <br />
-            Ve víře nás přece Boží síla provází,
-            <br />
-            Ducha svého dej nám též.
-          </ContainerParagraph>
-          <ContainerParagraph>
-            R: Nám, Pane, dal jsi Slovo své,
-            <br />
-            Ducha svého dej nám též. 
-            <br />
-            Ať Tebe vždycky přijmeme,
-            <br />
-            Ducha svého dej nám též.
-          </ContainerParagraph>
-          <ContainerParagraph>
-            3. Stále znovu zpívám: Pane, dej nám Ducha též,
-            <br />
-            Ducha svého dej nám též. 
-            <br />
-            Který srdce, mysl zarmoucenou pozdvihne,
-            <br />
-            Ducha svého dej nám též.
-          </ContainerParagraph>
-          <ContainerH2>Obětní průvod: Požehnaný jsi, Bože</ContainerH2>
-          <ContainerParagraph>
-            Požehnaný jsi, Bože, na věky,
-            <br />
-            z Tvé ruky všechno máme.
-            <br />
-            Požehnaný jsi, Bože veliký,
-            <br />
-            ...
-            <br />
-            1. ... chléb ti zde přinášíme.
-            <br />
-            2. ... víno ti přinášíme.
-            <br />
-            3. ... dary ti přinášíme.
+            protože oni dojdou milosrdenství.
             <br />
           </ContainerParagraph>
-          <ContainerH2>
-            Přijímání I.: Ty jsi mi vším (Jsi silou mou, když umdlévám)
-          </ContainerH2>
           <ContainerParagraph>
-            1. Jsi silou mou, když umdlévám, jsi poklad, který nalézám.
+            3. Laskavě nám viny promíjí,
             <br />
-            Ty jsi mi vším, co mám.
+            učí nás odpouštět,
+            <br />
+            nabízí lásku tak,
+            <br />
+            aby ji poznal celý svět.
+            <br />
           </ContainerParagraph>
           <ContainerParagraph>
-            2. Klenotem vzácným ses mi stal,
+            4. Dřevěný kříž zbavil lidstvo vin,
             <br />
-            Tebe jen blázen by se vzdal.
+            vstal z mrtvých náš Pán.
             <br />
-            Ty jsi mi vším, co mám.
-          </ContainerParagraph>
-          <ContainerParagraph>
-            R: Králi, Beránku,
+            Ježíš je Bůh,
             <br />
-            chválím jméno Tvé. 
-            <br />
-            Králi, Beránku,
-            <br />
-            chválím jméno Tvé.
-          </ContainerParagraph>
-          <ContainerParagraph>
-            3. Vzal jsi můj hřích, můj kříž, můj žal.
-            <br />
-            Tobě vzdám díky, že jsem vstal.
-            <br />
-            Ty jsi mi vším co mám.
-          </ContainerParagraph>
-          <ContainerParagraph>
-            4. Když padám, Ty mne pozvedáš,
-            <br />
-            v poušti mi pohár doléváš.
-            <br />
-            Ty jsi mi vším, co mám.
-          </ContainerParagraph>
-          <ContainerH2>Přijímání II.: Všichni jsme jedno tělo</ContainerH2>
-          <ContainerParagraph>
-            R: /: Všichni jsme jedno tělo,
-            <br />
-            spojil nás Ježíš, nikdo není sám. 
-            <br />
-            Všichni jsme jedno tělo,
-            <br />
-            spojil nás Ježíš, On dal život nám. :/
-          </ContainerParagraph>
-          <ContainerParagraph>
-            1. /: Když jíte tělo Mé a pijete Mou krev,
-            <br />
-            budu žít ve vás, budete v lásce Mé. :/
-          </ContainerParagraph>
-          <ContainerParagraph>
-            2. /: Ve jménu Ježíše poklekne každý z nás
-            <br />
-            On je všech králů Král a brzy přijde zas. :/
-          </ContainerParagraph>
-          <ContainerParagraph>
-            3. /: Cestou a Pravdou jsem, Beránek nejtišší,
-            <br />
-            jsem oběť jediná, jsem oběť nejvyšší. :/
+            světlo střídá stín, světu vládne Král.
             <br />
           </ContainerParagraph>
-          <ContainerH2>Přijímání III.: Vzácný jsi</ContainerH2>
           <ContainerParagraph>
-            1. /: Vzácný jsi pro mě, Pane můj.:/
+            B:  Přestaňse bát aBohu dej
             <br />
-            R: /: Tebe mám, Tebe mám rád, Tebe mám rád,
+            svá trápení i žal avěř,
             <br />
-            Ty sáms mě dřív měl rád.:/
+            že Bůh očistilnáš hřích,
             <br />
-            2. /: Láska Tvá je vzácná, to vím.:/
+            náš Pán žije dál.
             <br />
-            3. /: Vůle Tvá je správná, to vím!:/
-            <br />
-            4. /: Cestou Tvou, já navždy chci jít.:/
           </ContainerParagraph>
-          <ContainerH2>Závěr: Poutníci naděje</ContainerH2>
+          <ContainerH2>Chválu vzdám</ContainerH2>
           <ContainerParagraph>
-            R: Plamen naděje v nás oživ,
+            R: Vzdám, chválu vzdávám,
             <br />
-            v píseň chvály proměň jej.
+            bez Tebe už více nechci žít,
             <br />
-            Poutníky, co naději nesou,
+            s Tebou vlnám odolávám,
             <br />
-            Pane, chraň a provázej.
+            přicházíš bouře utišit,
+            <br />
           </ContainerParagraph>
           <ContainerParagraph>
-            1. Každý jazyk, lid i národ
+            1. Zvu Tě Pane, plav se se mnou
             <br />
-            najde světlo v Slově tvém.
+            mojí lodí rozkymácenou.
             <br />
-            Všechno, co je rozptýlené,
+            Po Tobě toužím, po Tobě prahnu,
             <br />
-            jednotu nalezne v Něm.
+            Ty jsi smysl mých zašedlých dnů.
+            <br />
           </ContainerParagraph>
           <ContainerParagraph>
-            R: Plamen naděje v nás oživ,
+            2. Tiše vcházíš, slyším slova tvá,
             <br />
-            v píseň chvály proměň jej.
+            pokoj dáváš, když bloudím ve vlnách.
             <br />
-            Poutníky, co naději nesou,
+            Jsi tak blízko, jsi mezi námi,
             <br />
-            Pane, chraň a provázej.
+            dotýkáš se nás, proměň nás.
+            <br />
+          </ContainerParagraph>
+          <ContainerH2>Ať požehnán je Bůh</ContainerH2>
+          <ContainerParagraph>
+            1. Ať požehnán je Bůh,
+            <br />
+            tam kde je zem úrodná,
+            <br />
+            tam kde hojnost přebývá,
+            <br />
+            požehnán buď Pán!
+            <br />
           </ContainerParagraph>
           <ContainerParagraph>
-            2. Bože něžný, trpělivý,
+            2. Ať požehnán je Bůh,
             <br />
-            posiluj nás v naději.
+            tam kde je zem nevlídná,
             <br />
-            Nové nebe, novou zemi,
+            má duše žízní vyprahlá,
             <br />
-            Boží Duch kéž obnoví.
+            požehnán buď Pán!
+            <br />
           </ContainerParagraph>
           <ContainerParagraph>
-            R: Plamen naděje v nás oživ,
+            Vše, co dáváš ze Tvých dlaní,
             <br />
-            v píseň chvály proměň jej.
+            s díky přijímám.
             <br />
-            Poutníky, co naději nesou,
+            Všechno měníš v požehnání,
             <br />
-            Pane, chraň a provázej.
+            chválu Ti vzdám!
+            <br />
           </ContainerParagraph>
           <ContainerParagraph>
-            3. Vstaň a jdi, Duch Svatý vane,
+            R: Buď požehnané slavné jméno Tvé,
             <br />
-            sám Bůh vstupuje v náš svět.
+            Buď požehnaný Pán! 
             <br />
-            Kdo jej dá poznat hledajícím?
+            Buď požehnané slavné jméno Tvé,
             <br />
-            Pošli mne, zní má odpověď.
+            Buď požehnaný svatý pánů Pán!
+            <br />
+          </ContainerParagraph>
+          <ContainerParagraph>
+            3. Ať požehnán je Bůh,
+            <br />
+            když slunce svítí nad hlavou
+            <br />
+            a život zdá se zábavou,
+            <br />
+            požehnán buď Pán!
+            <br />
+          </ContainerParagraph>
+          <ContainerParagraph>
+            4. Ať požehnán je Bůh,
+            <br />
+            když dny jsou plné strádání,
+            <br />
+            když žal se skrývá v dávání,
+            <br />
+            požehnán buď Pán!
+            <br />
+          </ContainerParagraph>
+          <ContainerParagraph>
+            Vše, co dáváš ze Tvých dlaní,
+            <br />
+            s díky přijímám.
+            <br />
+            Všechno měníš v požehnání,
+            <br />
+            chválu Ti vzdám!
+            <br />
+          </ContainerParagraph>
+          <ContainerParagraph>
+            B: Dáš a vezmeš sám můj
+            <br />
+            pád i vítězství,
+            <br />
+            v mém srdci stále zní
+            <br />
+            jen slova žehnání.
+            <br />
+          </ContainerParagraph>
+          <ContainerH2>Na oltář</ContainerH2>
+          <ContainerParagraph>
+            1. Na oltář patří všechno, co mám. Smutky mé i mou radost ti dám.
+            <br />
+            Problémy, které nevyřeším sám,
+            <br />
+            všechno, Pane, před tvou tvář teď odevzdám.
+            <br />
+          </ContainerParagraph>
+          <ContainerParagraph>
+            2. Na oltář nesu bolest i hřích, starosti, když se utápím v nich,
+            <br />
+            skutky zlé, plné rozdaných ran,
+            <br />
+            všechno, Pane, před tvou tvář teď odevzdám.
+            <br />
+          </ContainerParagraph>
+          <ContainerParagraph>
+            3. Na oltář nesu radost a dík za chvíle, které naplnil smích.
+            <br />
+            Úsměvy, které rozdal jsem sám,
+            <br />
+            všechno, Pane, před tvou tvář teď odevzdám.
+            <br />
+          </ContainerParagraph>
+          <ContainerParagraph>
+            B:  Proměň,Pane, tyto dary, které spolu s chlebem, vínem odevzdám.
+            <br />
+            Bez Tebe bych byl pouhým stínem a hnal se vlastní cestou kdoví kam.
+            <br />
+            A tak jsem rád, že ti to málo, které mám, smím dát.
+            <br />
+          </ContainerParagraph>
+          <ContainerParagraph>
+            4. Na oltář dávám pár skromných snů, prosím, dej pokoj do dalších dnů,
+            <br />
+            nauč mě dávat jako Ty sám, pomoz, ať na cestě lásky vytrvám.
+            <br />
+          </ContainerParagraph>
+          <ContainerParagraph>
+            5. Na oltář patří všechno, co mám. Smutky mé i mou radost ti dám.
+            <br />
+            Problémy, které nevyřeším sám,
+            <br />
+            všechno, Pane, před tvou tvář teď odevzdám.
+            <br />
+          </ContainerParagraph>
+          <ContainerH2>Dary (Z mnoha zrn)</ContainerH2>
+          <ContainerParagraph>
+            1. Z mnoha zrn se stal jeden chléb,
+            <br />
+            co naši duši z prachu povýší,
+            <br />
+            naplní radostí, pokojem,
+            <br />
+            k životu v nebi nás přiblíží.
+            <br />
+          </ContainerParagraph>
+          <ContainerParagraph>
+            R: Láskou proměň nám,
+            <br />
+            to, co zde přinášíme,
+            <br />
+            Tvé se staň.
+            <br />
+            Dej ať jsme jedno tělo, jeden chrám,
+            <br />
+            my děti Tvé, Ty náš pán.
+            <br />
+          </ContainerParagraph>
+          <ContainerParagraph>
+            2. Z hroznů za pár chvil budekrev,
+            <br />
+            která nás uzdraví a očistí,
+            <br />
+            zahojí bolesti, pády, hněv
+            <br />
+            a svou blízkostí nás utiší.
+            <br />
+          </ContainerParagraph>
+          <ContainerH2>Nik nie je ako On</ContainerH2>
+          <ContainerParagraph>
+            1.  Jelen jeden na tróne
+            <br />
+            Ježiš, Svätý
+            <br />
+             LenOn je hoden chvál
+            <br />
+            Úcty a slávy
+            <br />
+          </ContainerParagraph>
+          <ContainerParagraph>
+            R: Hoden Baránok
+            <br />
+            Bol zabitý, no zasadol na trón
+            <br />
+            Nik nie je ako On
+            <br />
+          </ContainerParagraph>
+          <ContainerParagraph>
+            Celé  stvorenstvá
+            <br />
+            V kolenách a chvália Jeho len
+            <br />
+            Nik nie je ako On
+            <br />
+          </ContainerParagraph>
+          <ContainerParagraph>
+            B: Si Kráľom všetkej slávy
+            <br />
+            Si Kráľom všetkej slávy
+            <br />
+            Si Kráľom všetkej slávy
+            <br />
+            Si kráľom nad všetkým
+            <br />
+          </ContainerParagraph>
+          <ContainerParagraph>
+            Si Kráľom hodným chvály
+            <br />
+            Si Kráľom hodným chvály
+            <br />
+            Si Kráľom hodným chvály
+            <br />
+            Si Kráľom nad všetkým
+            <br />
+          </ContainerParagraph>
+          <ContainerH2>Neboj se, já budu s Tebou</ContainerH2>
+          <ContainerParagraph>
+            1. Často já pocit mám,
+            <br />
+            že když jdu, klopýtám.
+            <br />
+            Mnohdy sám toužím dát
+            <br />
+            světu to, co nemám sám.
+            <br />
+            Ale proč málo znám toho,
+            <br />
+            co by mi pomohl rád?
+            <br />
+          </ContainerParagraph>
+          <ContainerParagraph>
+            Ale proč slovo chci polykám,
+            <br />
+            když se mě ptá,
+            <br />
+            zda chci jít světem s ním?
+            <br />
+            Snad jsem ještě mladý,
+            <br />
+            snad bojím se vstát.
+            <br />
+            Prý stačí jen chtít
+            <br />
+            a s ním promlouvat. 
+            <br />
+          </ContainerParagraph>
+          <ContainerParagraph>
+            R: Neboj se, člověče,
+            <br />
+            životem svým netrap se.
+            <br />
+            Neboť všude kam tě pošlu tam půjdeš,
+            <br />
+            a co ti přikážu řekneš.
+            <br />
+            Neboj se, já budu s Tebou!
+            <br />
+          </ContainerParagraph>
+          <ContainerParagraph>
+            2. Když vidím zlo, jenž v srdci bolí,
+            <br />
+            pak nevím, zda řešit, čas možná to zhojí. 
+            <br />
+            Bůh mne zasadil jak zrno úrodné,
+            <br />
+            dal mi vláhu, pole příhodné.
+            <br />
+            Abych rostl a sílil a jemu se líbil
+            <br />
+            a nebál se přinést užitek. 
+            <br />
+          </ContainerParagraph>
+          <ContainerParagraph>
+            B: Chválím tě otče
+            <br />
+            za ruku ochrannou.
+            <br />
+            Jenž vede nás,
+            <br />
+            stále vede nás za tebou.
+            <br />
+            Dík, že mne nenecháš
+            <br />
+            zkouškami projít,
+            <br />
+            aniž bych nepoznal Tvou vůli.
+            <br />
+          </ContainerParagraph>
+          <ContainerH2>Jen v Tebe důvěru mám</ContainerH2>
+          <ContainerParagraph>
+            1. Uprostřed zkoušek a všech nesnází
+            <br />
+            jen v Tebe důvěru mám.
+            <br />
+            Když skoro vůbec nic mi nevychází,
+            <br />
+            jen v Tebe důvěru mám.
+            <br />
+          </ContainerParagraph>
+          <ContainerParagraph>
+            R: Ó, Hospodine,
+            <br />
+            jen v Tebe důvěru mám.
+            <br />
+            Ó, Hospodine,
+            <br />
+            jen v Tebe důvěru mám.
+            <br />
+          </ContainerParagraph>
+          <ContainerParagraph>
+            2. Když mračna stahují se nad mou hlavou,
+            <br />
+            jen v Tebe důvěru mám,
+            <br />
+            pak místo deště slzy z očí kanou,
+            <br />
+            jen v Tebe důvěru mám.
+            <br />
+          </ContainerParagraph>
+          <ContainerParagraph>
+            3. Když do mysli se vkrádá porážky stín,
+            <br />
+            jen v Tebe důvěru mám,
+            <br />
+            zas k Tobě přijdu s prostou vírou, že smím,
+            <br />
+            když v Tebe důvěru mám.
+            <br />
+          </ContainerParagraph>
+          <ContainerH2>Řeknu všem</ContainerH2>
+          <ContainerParagraph>
+            1. Tady jsem a dnes nechci skrývat,
+            <br />
+            ani popírat pravdu, o které jsem přesvědčen. 
+            <br />
+            Tady jsem připraven všechny lidi vyzvat,
+            <br />
+            pojďme přiznat, komu patří naše zem. 
+            <br />
+          </ContainerParagraph>
+          <ContainerParagraph>
+            Dnes se nechci bát nahlas najevo dát,
+            <br />
+            komu chci tuhle píseň hrát.
+            <br />
+          </ContainerParagraph>
+          <ContainerParagraph>
+            R: Řeknu všem jsem přesvědčen,
+            <br />
+            že existuje ten, který stojí za tím,
+            <br />
+            že tahleta zem a v ní všechno není tady omylem,
+            <br />
+            že život není náhoda jen, že nás všechny tady chtěl.
+            <br />
+          </ContainerParagraph>
+          <ContainerParagraph>
+            B: Proto chceme v rytmu hudby chválit Pána,
+            <br />
+            celému světu pojďme říct, že není důvod bez radosti žít.
+            <br />
+            V rytmu hudby chválit Pána, nepřestávat zpívat a hrát,
+            <br />
+            není nic, co by mohlo proti nám stát.
+            <br />
+          </ContainerParagraph>
+          <ContainerH2>Den co den</ContainerH2>
+          <ContainerParagraph>
+            1. Jak to říct, nevím,
+            <br />
+            tysmi život dal a já
+            <br />
+            vyslovím stěží,
+            <br />
+            co to pro mě znamená,
+            <br />
+            že jsi mou záchranou.
+            <br />
+            Všechno, co jsem, chci ti dát,
+            <br />
+            ať každý den můžu
+            <br />
+            vzhlížet na tvůj majestát!
+            <br />
+          </ContainerParagraph>
+          <ContainerParagraph>
+            R: Den co den sev tobě ztrácím.
+            <br />
+            Den co den jdustále za tebou.
+            <br />
+            Den co den chci ve tvé lásce stát!
+            <br />
+          </ContainerParagraph>
+          <ContainerParagraph>
+            2. Den co den zkouším,
+            <br />
+            zkouším ve tvém jménu stát,
+            <br />
+            s pokorou prosím, abych moh tě více znát.
+            <br />
+            Dávno vím, máme každou hodinou k sobě blíž,
+            <br />
+            jdeme, chci být světlem a ne tmou!
+            <br />
+          </ContainerParagraph>
+          <ContainerParagraph>
+            B: ...se v tobě ztrácím den co den...
+            <br />
+            za tebou stále den co den...
+            <br />
+            jsem ve tvé lásce den co den...
             <br />
           </ContainerParagraph>
         </Container>
