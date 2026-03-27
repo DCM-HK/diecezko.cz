@@ -16,8 +16,13 @@ export default function Playlist() {
         <Container>
           <ContainerTitle>Playlist na mši svatou</ContainerTitle>
           <ContainerParagraph>
-            Texty písniček najdeš buďto ve zpěvníku pro scholy nebo níže.
+            Texty písniček najdeš buďto ve{" "}
+            <Link href={`https://zpevnik.proscholy.cz/`} target="_blank" className="underline">
+            zpěvníku pro scholy
+            </Link>{" "}
+            nebo níže.
           </ContainerParagraph>
+          {/*
           <Link
             href={`/assets/playlist/2026_mse_updated.proscholy`}
             target="_blank"
@@ -28,6 +33,7 @@ export default function Playlist() {
               Otevřít playlist na mši
             </button>
           </Link>
+           */}
           <ContainerH2>Blahoslavení milosrdní</ContainerH2>
           <ContainerParagraph>
             1. K výšinám své oči pozvedám,
