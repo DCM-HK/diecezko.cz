@@ -31,7 +31,7 @@ export default function Infographic() {
           <ContainerH3 className="">Mše svatá s našimi biskupy</ContainerH3>
           <ContainerParagraph className="">
             Setkání zakončíme mší svatou s&nbsp;našimi biskupy Janem
-            a&nbsp;Prokopem v&nbsp;katedrále Svatého Ducha. Biskup Jan nás zve a zdraví&nbsp;v&nbsp;
+            a&nbsp;Prokopem v&nbsp;katedrále Svatého Ducha. Biskup Jan nás zve a&nbsp;zdraví v&nbsp;
             <Link
               href="/pozvani-biskupa-jana"
               target="_self"
@@ -39,6 +39,15 @@ export default function Infographic() {
               title="Pozání Biskupa Jana"
             >
               dopise
+            </Link>
+            . Texty písní ke mši najdeš{" "}
+            <Link
+              href="/playlist"
+              target="_self"
+              className="underline"
+              title="Playlist"
+            >
+              tady
             </Link>.
           </ContainerParagraph>
         </div>
@@ -55,7 +64,24 @@ export default function Infographic() {
           <IconMusic size={50} className="inline w-full mt-4" />
           <ContainerH3 className="">Skvělá hudba</ContainerH3>
           <ContainerParagraph className="">
-            Pro�ram bude doprovázen ladnými tóny Vesmírné kapely a scholou PEHUMA
+            Pro�ram bude doprovázen ladnými tóny{" "}
+            <Link
+              href="/veka"
+              target="_self"
+              className="underline"
+              title="Vesmírné kapely"
+            >
+              Vesmírné kapely
+            </Link>{" "}
+            a scholou{" "}
+            <Link
+              href="/pehuma"
+              target="_self"
+              className="underline"
+              title="PEHUMA"
+            >
+              PEHUMA
+            </Link>{" "}
             z Dolní Čermné. O&nbsp;hudební doprovod adorace se&nbsp;postará
             Markét Dušková.
           </ContainerParagraph>
