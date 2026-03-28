@@ -115,6 +115,8 @@ export default async function PrednaskyWorhsopy() {
                             ? `/mapa?x=${50.2090269}&y=${15.8334453}` // Nove Adalbertinum
                             : w.place.includes("Biskupská rezidence")
                             ? `/mapa?x=${50.208725}&y=${15.8323194}` // Biskupská rezidence
+                            : w.place.includes("Katedrála")
+                            ? `/mapa?x=${50.2087878}&y=${15.8310917}` // Katedrála
                             : `/mapa?x=${50.2062919}&y=${15.8337133}` // BiGy
                         }
                         target="_self"
@@ -365,7 +367,7 @@ const workshops = [
       name: "Milada Fejtková a Matěj Kverka",
     },
     capacity: 20,
-    place: "místnost 216",
+    place: "Katedrála",
   },
   {
     title: "Sportovní workshop",
