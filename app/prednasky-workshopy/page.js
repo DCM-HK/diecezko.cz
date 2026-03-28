@@ -298,6 +298,17 @@ const workshops = [
     place: "místnost 213",
   },
   {
+    title: "Jak na breviář?",
+    type: "person",
+    descritpion: `Chcete vědět, jak se můžete modlit každý den stejné modlitby spolu s papežem Lvem, biskupy, kněžími, řeholníky a věřícími na celém světě? Zajímá vás, co znamená slovo breviář? Jak ho zdolat, když nevíte, jak na to? Jak bychom denní modlitbu církve sestavili my?`,
+    speaker: {
+      name: "Vojtěch Novotný",
+      jpgPath: "/assets/images/speakers/novotny.jpg",
+    },
+    capacity: 40,
+    place: "místnost 205",
+  },
+  {
     title: "Jak na hudbu při mši aneb od výběru písní po diri�ování",
     type: "workshop",
     id: "workshop-start",
@@ -342,6 +353,16 @@ const workshops = [
     speaker: {
       name: "Patricie Koubská",
       pngPath: "/assets/images/speakers/koubska.jpg",
+    },
+    capacity: 20,
+    place: "místnost 216",
+  },
+  {
+    title: "Prohlídka katedrály a věží",
+    type: "workshop",
+    descritpion: `Rádi byste se dozvěděli více o srdci naší diecéze a prozkoumali zákoutí katedrály, a to s neotřelou paní katedrálnicí? Nebojíte se výšek a chcete si užít město z nadhledu? Chcete shodit pár kalorií a zadýchat se šplháním na věže? Zajímá vás, kolik zvonů se ukrývá v katedrále a co obnáší služba zvoníka? Pak přijďte právě sem! Vstup na věže na vlastní nebezpečí. 🙂`,
+    speaker: {
+      name: "Milada Fejtková a Matěj Kverka",
     },
     capacity: 20,
     place: "místnost 216",
