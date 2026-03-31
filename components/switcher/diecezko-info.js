@@ -68,7 +68,7 @@ export default function DiecezkoInfo({ id, className }) {
             </button>
           </Link> */}
           <Link
-            href={`https://feedback-diecezko-cz-7xx.pages.dev`}
+            href={`https://feedback.diecezko.cz`}
             target="_blank"
             className="border col-span-2 border-[#3b3b3b] hover:bg-[#3b3b3b] rounded-full p-2 px-5 text-base flex flex-row items-center justify-center"
           >
