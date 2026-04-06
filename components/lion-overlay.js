@@ -1,7 +1,7 @@
 "use client";
 
-import { SP } from "next/dist/shared/lib/utils";
 import Image from "next/image";
+import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
 
 const LION_FRAMES = [
@@ -204,10 +204,7 @@ export default function LionOverlay() {
   const lionOpacity = lionRun.phase === "visible" ? 1 : 0;
 
   return (
-    <div
-      aria-hidden="true"
-      className="pointer-events-none fixed inset-0 z-[60] overflow-hidden select-none"
-    >
+    <div className="pointer-events-none fixed inset-0 z-[60] overflow-hidden select-none">
       <div
         className="absolute left-0"
         style={{
@@ -225,21 +222,28 @@ export default function LionOverlay() {
             willChange: "transform",
           }}
         >
-          <Image
-            src={currentFrame}
-            alt=""
-            className="h-auto select-none"
-            draggable="false"
-            height={200}
-            unoptimized
-            style={{
-              transform: `scaleX(${lionRun.direction})`,
-              transformOrigin: "center bottom",
-              width: `${lionRun.width}px`,
-              willChange: "transform",
-            }}
-            width={477}
-          />
+          <Link
+            aria-label="Kam zmizelo písmeno"
+            className="pointer-events-auto block"
+            href="/kam-zmizelo-pismeno"
+            target="_self"
+          >
+            <Image
+              src={currentFrame}
+              alt=""
+              className="h-auto select-none"
+              draggable="false"
+              height={200}
+              unoptimized
+              style={{
+                transform: `scaleX(${lionRun.direction})`,
+                transformOrigin: "center bottom",
+                width: `${lionRun.width}px`,
+                willChange: "transform",
+              }}
+              width={477}
+            />
+          </Link>
         </div>
       </div>
     </div>
