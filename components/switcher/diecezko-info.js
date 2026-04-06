@@ -80,6 +80,19 @@ export default function DiecezkoInfo({ id, className }) {
               <span className="ml-2 text-left">Zpětná vazba</span>
             </button>
           </Link>
+          <Link
+            href={`/galerie/gorun`}
+            target="_self"
+            className="border col-span-2 border-[#3b3b3b] hover:bg-[#3b3b3b] rounded-full p-2 px-5 text-base flex flex-row items-center justify-center"
+          >
+            <button
+              className="flex flex-row items-center justify-center w-full"
+              title="Galerie"
+            >
+              <IconPhoto className="inline" stroke={1.5} />{" "}
+              <span className="ml-2 text-left">�alerie</span>
+            </button>
+          </Link>
           {/*<Link
             href="/galerie"
             className="border col-span-2 border-[#3b3b3b] hover:bg-[#3b3b3b] rounded-full p-2 px-5 cursor-pointer text-base flex flex-row items-center justify-center w-full"
