@@ -1,3500 +1,2918 @@
-export const photos_hrabovsky = [
+export const photos_gorun = [
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8773.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-1.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8773.webp",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-1.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8786.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-10.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8786.webp",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-10.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8793.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-101.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8793.webp",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-101.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8795.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-100.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8795.webp",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-100.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8799.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-103.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8799.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8769.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8769.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8767.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8767.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8804.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8804.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8775.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8775.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8807.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8807.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8808.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8808.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8811.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8811.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8817.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8817.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8816.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8816.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8844.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8844.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8834.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8834.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8874-Enhanced-NR.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8874-Enhanced-NR.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8883.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8883.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8870.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8870.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8851.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8851.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8904.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8904.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8909.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8909.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8898.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8898.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8907.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8907.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8924.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8924.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8927.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8927.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8931.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8931.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8943.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8943.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8945.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8945.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9016-Enhanced-NR.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9016-Enhanced-NR.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9023.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9023.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8992.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8992.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8954.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR8954.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9037.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9037.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9087.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9087.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9068.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9068.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9123-Enhanced-NR.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9123-Enhanced-NR.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9139.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9139.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9130.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9130.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9156.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9156.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9126.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9126.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9194.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9194.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9201.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9201.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9218-Enhanced-NR.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9218-Enhanced-NR.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9209.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9209.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9246.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9246.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9272-Enhanced-NR.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9272-Enhanced-NR.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9283.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9283.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9248.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9248.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9306.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9306.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9288.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9288.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9339.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9339.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9300.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9300.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9347.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9347.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9346.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9346.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9354.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9354.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9349.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9349.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9359.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9359.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9362.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9362.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9374.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9374.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9384.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9384.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9387.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9387.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9391.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9391.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9393.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9393.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9395.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9395.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9400.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9400.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9426.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9426.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9434.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9434.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9437.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9437.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9441.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9441.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9451.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9451.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9468.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9468.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9462.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9462.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9471.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9471.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9486.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9486.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9485.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9485.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9483.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9483.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9502.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9502.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9498.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9498.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9493.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9493.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9519.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9519.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9529.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9529.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9540.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9540.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9522.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9522.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9534.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9534.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9546.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9546.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9549.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9549.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9554.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9554.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9552.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9552.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9559.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9559.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9588.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9588.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9576.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9576.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9574.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9574.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9567.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9567.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9594.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9594.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9623.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9623.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9590.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9590.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9596.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9596.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9625.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9625.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9631.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9631.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9637.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9637.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9635.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9635.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9664.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9664.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9667.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9667.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9670.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9670.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9672.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9672.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9675.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9675.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9679.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9679.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9691.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9691.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9684.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9684.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9696.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9696.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9708.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9708.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9714.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9714.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9725.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9725.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9716.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9716.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9727.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9727.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9748.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9748.webp",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-103.webp",
     width: 800,
     height: 1200,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9741.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-105.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9741.webp",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-105.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9745.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-104.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9745.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9736.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9736.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9752.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9752.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9756.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9756.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9758.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9758.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9760.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9760.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9768.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9768.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9764.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9764.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9773.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9773.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9777.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9777.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9784.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9784.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9787.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9787.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9790.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9790.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9795.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9795.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9801.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9801.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9823.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9823.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9833.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9833.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9838.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9838.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9842.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9842.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9850.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9850.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9865.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9865.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9880.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9880.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9898.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9898.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9885.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9885.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9905.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9905.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9901.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9901.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9917.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9917.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9935.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9935.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9949.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9949.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9953.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9953.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9932.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9932.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9962.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR9962.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0039.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0039.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0053.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0053.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0189.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0189.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
-  },
-  {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0074.webp",
-    original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0074.webp",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-104.webp",
     width: 800,
     height: 1200,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0174.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-102.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0174.webp",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-102.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0190.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-106.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0190.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-106.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0196.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-11.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0196.webp",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-11.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0198.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-107.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0198.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-107.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0213.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-108.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0213.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-108.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0216.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-109.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0216.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-109.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0223.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-110.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0223.webp",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-110.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0242.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-111.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0242.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-111.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0249.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-113.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0249.webp",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-113.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0257.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-112.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0257.webp",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-112.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0274.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-115.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0274.webp",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-115.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0283.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-114.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0283.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-114.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0279.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-118.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0279.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-118.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0286.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-117.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0286.webp",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-117.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0299.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-12.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0299.webp",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-12.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0324.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-120.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0324.webp",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-120.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0318.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-121.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0318.webp",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-121.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0331.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-116.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0331.webp",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-116.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0336.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-122.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0336.webp",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-122.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0343.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-119.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0343.webp",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-119.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0348.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-125.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0348.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-125.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0359.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-124.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0359.webp",
-    width: 1200,
-    height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-124.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0369.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-127.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0369.webp",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-127.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0389.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-123.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0389.webp",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-123.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0384.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-126.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0384.webp",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-126.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0402.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-13.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0402.webp",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-13.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0395.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-128.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0395.webp",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-128.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0428.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-129.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0428.webp",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-129.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0426.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-132.webp",
     original:
-      "https://foto2025.diecezko.cz/foto/hrabovsky/20250405-_PHR0426.webp",
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-132.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
-];
-
-export const photos_urban = [
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8457.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8457.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-130.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-130.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8470.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8470.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-134.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-134.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8464.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8464.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-135.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-135.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8480.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8480.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-136.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-136.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8478.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8478.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-131.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-131.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8482.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8482.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-137.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-137.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8467.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8467.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-14.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-14.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8486.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8486.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-133.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-133.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8494.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8494.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-140.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-140.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8492.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8492.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-138.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-138.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8489.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8489.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-142.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-142.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8495.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8495.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-141.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-141.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8497.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8497.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-144.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-144.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8505.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8505.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-143.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-143.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8498.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8498.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-145.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-145.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8499.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8499.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-139.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-139.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-147.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-147.webp",
+    width: 1200,
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-146.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-146.webp",
+    width: 1200,
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-149.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-149.webp",
+    width: 1200,
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-15.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-15.webp",
+    width: 1200,
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-151.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-151.webp",
+    width: 1200,
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-150.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-150.webp",
+    width: 1200,
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-148.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-148.webp",
+    width: 1200,
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-152.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-152.webp",
+    width: 1200,
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-153.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-153.webp",
+    width: 1200,
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-154.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-154.webp",
+    width: 1200,
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-155.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-155.webp",
+    width: 1200,
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-156.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-156.webp",
+    width: 1200,
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-158.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-158.webp",
+    width: 1200,
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-159.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-159.webp",
+    width: 1200,
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-157.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-157.webp",
+    width: 1200,
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-16.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-16.webp",
+    width: 1200,
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-160.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-160.webp",
+    width: 1200,
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-161.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-161.webp",
+    width: 1200,
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-162.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-162.webp",
+    width: 1200,
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-163.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-163.webp",
+    width: 1200,
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-164.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-164.webp",
+    width: 1200,
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-166.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-166.webp",
+    width: 1200,
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-165.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-165.webp",
+    width: 1200,
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-167.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-167.webp",
+    width: 1200,
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-169.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-169.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8509.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8509.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-168.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-168.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8512.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8512.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-17.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-17.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8515.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8515.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-170.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-170.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8514.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8514.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-171.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-171.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8519.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8519.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-172.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-172.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8524.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8524.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-173.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-173.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8528.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8528.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-174.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-174.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8532.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8532.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-176.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-176.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8531.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8531.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-177.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-177.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8533.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8533.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-18.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-18.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8534.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8534.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-178.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-178.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-175.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-175.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8536.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8536.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-179.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-179.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8549.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8549.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-180.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-180.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8542.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8542.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-181.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-181.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8545.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8545.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-183.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-183.webp",
     width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8550.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8550.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-184.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-184.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8552.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8552.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-182.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-182.webp",
     width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8560.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8560.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-185.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-185.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8539.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8539.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-186.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-186.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8569.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8569.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-188.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-188.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8558.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8558.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-19.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-19.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8566.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8566.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-189.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-189.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8572.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8572.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-190.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-190.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8571.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8571.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-192.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-192.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-187.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-187.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8586.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8586.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-193.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-193.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8575.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8575.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-194.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-194.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8580.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8580.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-195.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-195.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8595.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8595.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-191.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-191.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8601.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8601.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-196.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-196.webp",
     width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8583.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8583.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-198.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-198.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8602.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8602.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-197.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-197.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8599.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8599.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-20.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-20.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8614.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8614.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-199.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-199.webp",
     width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8603.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8603.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-200.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-200.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8624.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8624.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-202.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-202.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8620.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8620.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-2.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-2.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-201.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-201.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8607.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8607.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-203.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-203.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8628.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8628.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-204.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-204.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8634.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8634.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-206.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-206.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8636.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8636.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-205.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-205.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8642.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8642.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-207.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-207.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8645.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8645.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-21.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-21.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8647.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8647.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-209.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-209.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8660.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8660.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-208.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-208.webp",
     width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8633.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8633.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-210.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-210.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8668.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8668.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-211.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-211.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8671.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8671.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-212.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-212.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8657.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8657.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-215.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-215.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8676.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8676.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-214.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-214.webp",
     width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-213.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-213.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8679.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8679.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-216.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-216.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8683.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8683.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-22.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-22.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8684.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8684.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-217.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-217.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8689.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8689.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-218.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-218.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8665.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8665.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-219.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-219.webp",
     width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8692.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8692.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-221.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-221.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-220.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-220.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8694.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8694.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-223.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-223.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8686.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8686.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-225.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-225.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8691.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8691.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-224.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-224.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8699.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8699.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-226.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-226.webp",
     width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-222.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-222.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8697.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8697.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-228.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-228.webp",
     width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8703.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8703.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-229.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-229.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8708.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8708.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-23.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-23.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8707.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8707.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-230.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-230.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8711.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8711.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-231.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-231.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-227.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-227.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8717.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8717.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-232.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-232.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8712.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8712.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-234.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-234.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8718.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8718.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-233.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-233.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8723.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8723.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-236.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-236.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-235.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-235.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8725.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8725.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-24.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-24.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8700.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8700.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-239.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-239.webp",
     width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-238.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-238.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8730.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8730.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-240.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-240.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8734.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8734.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-241.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-241.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8732.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8732.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-242.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-242.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-243.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-243.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8736.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8736.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-244.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-244.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8741.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8741.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-246.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-246.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8742.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8742.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-245.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-245.webp",
     width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8728.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8728.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-247.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-247.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8751.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8751.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-237.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-237.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-25.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-25.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8747.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8747.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-250.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-250.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8753.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8753.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-249.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-249.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8758.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8758.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-251.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-251.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-252.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-252.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-248.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-248.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-253.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-253.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-254.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-254.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8763.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8763.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-256.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-256.webp",
     width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8764.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8764.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-257.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-257.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8759.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8759.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-255.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-255.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-26.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-26.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-258.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-258.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8765.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8765.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-259.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-259.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8771.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8771.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-260.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-260.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8760.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8760.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-262.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-262.webp",
     width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8769.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8769.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-261.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-261.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8772.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8772.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-263.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-263.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8773.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8773.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-264.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-264.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8781.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8781.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-266.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-266.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8785.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8785.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-267.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-267.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-265.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-265.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8790.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8790.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-268.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-268.webp",
     width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8791.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8791.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-269.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-269.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8793.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8793.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-27.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-27.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8797.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8797.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-272.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-272.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8801.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8801.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-273.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-273.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8807.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8807.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-271.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-271.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8815.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8815.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-270.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-270.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8816.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8816.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-274.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-274.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8831.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8831.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-275.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-275.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8834.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8834.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-276.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-276.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8818.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8818.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-277.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-277.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8840.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8840.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-28.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-28.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8842.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8842.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-280.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-280.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8844.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8844.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-278.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-278.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8845.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8845.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-279.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-279.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8843.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8843.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-282.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-282.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8846.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8846.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-281.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-281.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8860.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8860.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-283.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-283.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-284.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-284.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8861.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8861.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-286.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-286.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-285.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-285.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8862.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8862.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-287.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-287.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8863.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8863.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-288.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-288.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8864.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8864.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-289.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-289.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8865.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8865.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-291.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-291.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8867.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8867.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-290.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-290.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8877.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8877.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-292.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-292.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8868.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8868.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-294.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-294.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8881.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8881.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-293.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-293.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8885.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8885.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-296.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-296.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8882.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8882.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-29.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-29.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-295.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-295.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8880.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8880.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-3.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-3.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8890.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8890.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-297.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-297.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8889.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8889.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-298.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-298.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8898.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8898.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-299.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-299.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8899.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8899.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-30.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-30.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8907.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8907.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-300.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-300.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8894.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8894.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-301.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-301.webp",
     width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8910.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8910.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-302.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-302.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8917.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8917.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-303.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-303.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8918.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8918.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-305.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-305.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8909.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8909.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-306.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-306.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8919.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8919.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-307.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-307.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8923.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8923.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-304.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-304.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8929.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8929.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-31.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-31.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-308.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-308.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-310.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-310.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8927.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8927.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-309.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-309.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8931.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8931.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-311.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-311.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8926.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8926.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-313.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-313.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8932.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8932.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-312.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-312.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8935.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8935.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-314.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-314.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8936.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8936.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-315.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-315.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8937.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8937.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-316.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-316.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8945.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8945.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-32.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-32.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8941.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8941.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-317.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-317.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8947.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8947.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-318.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-318.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8951.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8951.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-319.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-319.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8953.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8953.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-321.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-321.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8959.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8959.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-320.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-320.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8946.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8946.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-324.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-324.webp",
     width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8964.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8964.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-34.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-34.webp",
     width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8968.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8968.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-33.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-33.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8967.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8967.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-35.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-35.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-323.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-323.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8969.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8969.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-37.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-37.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8961.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8961.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-39.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-39.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-38.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-38.webp",
     width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8971.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8971.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-322.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-322.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8977.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8977.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-40.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-40.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8979.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8979.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-4.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-4.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8986.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8986.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-41.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-41.webp",
     width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8981.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8981.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-42.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-42.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-36.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-36.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8990.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8990.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-43.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-43.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8988.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8988.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-45.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-45.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9002.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9002.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-46.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-46.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8998.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8998.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-49.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-49.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_8996.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_8996.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-47.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-47.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9003.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9003.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-5.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-5.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9020.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9020.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-48.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-48.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9023.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9023.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-51.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-51.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9007.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9007.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-44.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-44.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-50.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-50.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9011.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9011.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-53.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-53.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9024.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9024.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-54.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-54.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9032.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9032.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-52.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-52.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9035.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9035.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-56.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-56.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9025.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9025.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-59.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-59.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9038.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9038.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-55.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-55.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9041.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9041.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-60.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-60.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-58.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-58.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9043.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9043.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-61.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-61.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-57.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-57.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9044.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9044.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-63.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-63.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9052.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9052.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-62.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-62.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9050.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9050.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-6.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-6.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-64.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-64.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9061.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9061.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-67.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-67.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9066.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9066.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-68.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-68.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9070.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9070.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-69.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-69.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9068.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9068.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-70.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-70.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9071.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9071.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-7.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-7.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9074.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9074.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-71.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-71.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9082.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9082.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-72.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-72.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9084.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9084.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-73.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-73.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9077.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9077.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-66.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-66.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9086.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9086.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-74.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-74.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9095.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9095.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-75.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-75.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9106.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9106.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-76.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-76.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9093.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9093.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-78.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-78.webp",
     width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9098.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9098.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-79.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-79.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9110.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9110.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-77.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-77.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-65.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-65.webp",
+    width: 800,
+    height: 1200,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
+  },
+  {
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-8.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-8.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9107.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9107.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-81.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-81.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9111.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9111.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-80.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-80.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9118.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9118.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-82.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-82.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9116.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9116.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-84.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-84.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9123.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9123.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-83.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-83.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9113.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9113.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-85.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-85.webp",
     width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9128.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9128.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-86.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-86.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9126.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9126.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-87.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-87.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9129.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9129.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-88.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-88.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9130.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9130.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-89.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-89.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9135.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9135.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-9.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-9.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9138.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9138.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-91.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-91.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9145.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9145.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-90.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-90.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9143.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9143.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-92.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-92.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9146.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9146.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-94.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-94.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9152.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9152.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-93.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-93.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9154.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9154.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-95.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-95.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9156.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9156.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-96.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-96.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9165.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9165.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-97.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-97.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9173.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9173.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-98.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-98.webp",
     width: 1200,
     height: 800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
   {
-    src: "https://foto2025.diecezko.cz/foto/urban/IMG_9160.webp",
-    original: "https://foto2025.diecezko.cz/foto/urban/IMG_9160.webp",
+    src: "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-99.webp",
+    original:
+      "https://foto2026.diecezko.cz/foto/gorun/M.Gorun-99.webp",
     width: 1200,
-    height: 1800,
-    alt: "Fotka z jarního Diecézka 2025",
-    caption: "Fotka z jarního Diecézka 2025",
+    height: 800,
+    alt: "Fotka z jarního Diecézka 2026",
+    caption: "Fotka z jarního Diecézka 2026"
   },
 ];
